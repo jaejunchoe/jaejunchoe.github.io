@@ -9,11 +9,7 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 site_theme               : "default"
-<<<<<<< HEAD
-title                    : "Jaejun Choe"
-=======
 title                    : "Jaejune Choe"
->>>>>>> d5d38ea36494d627e47644d88b89e2ae079a83c1
 title_separator          : "-"
 name                     : &name "Jaejun Choe"
 description              : &description "personal description"
@@ -33,7 +29,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cjj1222@khu.ac.kr" 
 
   # Academic websites
   academia         : # URL
