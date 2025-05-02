@@ -7,15 +7,19 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 site_theme               : "default"
+<<<<<<< HEAD
+title                    : "Jaejun Choe"
+=======
 title                    : "Jaejune Choe"
+>>>>>>> d5d38ea36494d627e47644d88b89e2ae079a83c1
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jaejun Choe"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jaejunchoe.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jaejunchoe/jaejunchoe.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
