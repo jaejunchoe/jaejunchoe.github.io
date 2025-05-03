@@ -62,12 +62,10 @@ Project Lists & Experiences
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
 
-<br/>
-
-- `Contents`
-• Collected performance metrics for KBO players who signed FA contracts from 2019 to 2023. <br/>
-• Analyzed the correlation between performance metrics and salaries for pitchers and batters. <br/>
-• Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher. 
+- `Contents` <br/>
+1. Collected performance metrics for KBO players who signed FA contracts from 2019 to 2023. <br/>
+1. Analyzed the correlation between performance metrics and salaries for pitchers and batters. <br/>
+1. Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher. 
 
 
 
