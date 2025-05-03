@@ -58,6 +58,20 @@ Project Lists & Experiences
 **Side Projects**
 ----
 
+**Side Project 2.** 서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안안(Proposed elder care centers in Seoul and identified optimal locations using AI)
+- `Role:` Team Member
+- `Period:` Contest conducted in the 2023 Seoul Artificial Intelligence Idea Challenge, 2023.08 ~ 2023.10
+
+
+- `Contents` <br/>
+1. Proposal for 'Elderly Care Centers' (ECC) and Selection of Optimal Locations Based on Data. <br/>
+1. By utilizing data on population and the number of welfare facilities in each region, we conducted clustering to select areas that need to be converted into 
+ECC based on the proportional and inversely proportional relationships of the compared data. <br/>
+1. Clustering was performed using DBSCAN, and the hyperparameters were derived through GridSearch. <br/>
+1. As a result, we identified Nowon-gu, Gangseo-gu, Yangcheon-gu, Songpa-gu, and Seongbuk-gu as areas urgently requiring conversion into ECCs.
+
+<br/>
+
 **Side Project 1.** 2024년 FA(자유계약선수) 자격을 갖춘 KBO 선수들의 연봉 예측(Salary prediction for KBO players eligible for FA (Free Agent) in 2024)
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
