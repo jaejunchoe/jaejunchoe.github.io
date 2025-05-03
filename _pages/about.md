@@ -10,6 +10,10 @@ redirect_from:
 Welcome to Jaejoon Choi (Jaejun Choe)'s Pages!
 -----
 
+현재 지속적으로 업데이트 중입니다. 완전한 내용이 아닌 점은 양해부탁드립니다. Publication, Talks, Teaching, Portfolio, Blog Posts, CV 등의 Section은 지속적으로 업데이트하도록 하겠습니다.
+
+The content is currently being continuously updated. We kindly ask for your understanding as the information is not yet complete. Sections such as Publications, Talks, Teaching, Portfolio, Blog Posts, and CV will be updated on an ongoing basis.
+
 <br/>
 
 Introduction
