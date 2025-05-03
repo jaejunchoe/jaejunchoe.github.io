@@ -24,7 +24,7 @@ Hello! I am currently pursuing a master’s degree in the Intelligent Energy Con
 
 
 Experiences
------
+======
 - `Mar.2025 - Present`, M.S. Student, [AIMS Lab](https://sites.google.com/khu.ac.kr/aims/home?authuser=0), Department of Industrial and Management Systems Engineering, Kyung Hee University, Yongin, Korea
 - `Mar.2024 - Feb.2025`, Undergraduate Research Assistant Student, [HAIDS Lab](https://sites.google.com/view/ids-kit/home), Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
 - `Apr.2023 - Feb.2024`, Undergraduate Research Student, [Kumoh National Institute of Technology Industry-academic Cooperation Foundation](http://sian3.adbank.co.kr/kit_iacf/main/sub01/sub01_03.html), Kumoh National Institute of Technology, Gumi, Korea
@@ -34,14 +34,27 @@ Experiences
 
 
 Project Lists & Experiences
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+======
+
+**Projects**
+----
+
+**Project 2. 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)**
+- `with` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
+- `period of affiliation:` Kumoh National Institute of Technology
+- `Role:` Assist a Prof. Kyuho Maeng.
+
+<br/>
+
+**Project 1. 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발**
+- `with` Bokwang Industry Co., Ltd. / 2024.10
+- `period of affiliation:` Kumoh National Institute of Technology
+- `Role:` Assist a Prof. Youngsil Lee.
 
 
 
 
-
-**Markdown generator**
+**Side Projects**
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
