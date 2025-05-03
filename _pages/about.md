@@ -51,6 +51,7 @@ Project Lists & Experiences
 - `Period of affiliation:` Kumoh National Institute of Technology
 - `Role:` Assist a Prof. Kyuho Maeng.
 
+
 <br/>
 <br/>
 
@@ -58,17 +59,52 @@ Project Lists & Experiences
 **Side Projects**
 ----
 
-**Side Project 2.** 서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안안(Proposed elder care centers in Seoul and identified optimal locations using AI)
+**Side Project 4.** Vision Transformer와 유사도 기반 반도체 혼합 결합 유형 예측(Prediction of Mixed Defect Types in Semiconductors Using Vision Transformer and Similarity-Based Methods)
+- `Role:` Individual
+- `Period:` Individual Project conducted in a Capstone Design Lecture under the supervision of Prof. Young-Sil Lee at Kumoh National Institute of Technology, 1st Semester 2024 , 2023.09 ~ 2023.12
+
+<br/>
+
+- `Contents:` <br/>
+1. The goal is to predict dual defect types in data using only single defect data. <br/>
+1. Two models based on Vision Transformers and KNN algorithms were designed, using Euclidean and Gaussian distance calculation methods for 
+comparative analysis. <br/>
+1. Prediction of dual defect types involving 'Edge_Loc' showed higher accuracy than previous studies using CNN, but overall performance was not 
+satisfactory.  <br/>
+
+
+<br/>
+
+🏆**Side Project 3.** EG(Eco Gumi)-Service: 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)
+- `Role:` Team Member
+- `Period:` Datathon Contest conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
+- 🏆`Prize:` Grand Prize,President's Award from Korea Electric Power Corporation(KEPCO), (KRW 4,000,000)
+
+<br/>
+
+- `Contents:` <br/>
+1. Developed a service idea(EG-Service). <br/>
+1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on 
+the daily usage patterns of power consuming companies. <br/>
+1. Utilizing various algorithmic models such as Linear Regression, LSTM, and Ensemble Methods (Voting, Stacking, etc.) to derive R-squared and MAE. <br/>
+1. Proposing features for visualizing energy usage and policy notification services, and creating a Service Blueprint and user behavior simulation map to 
+refine the service ideas.
+
+
+<br/>
+
+**Side Project 2.** 서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안(Proposed elder care centers in Seoul and identified optimal locations using AI)
 - `Role:` Team Member
 - `Period:` Contest conducted in the 2023 Seoul Artificial Intelligence Idea Challenge, 2023.08 ~ 2023.10
 
 
-- `Contents` <br/>
+- `Contents:` <br/>
 1. Proposal for 'Elderly Care Centers' (ECC) and Selection of Optimal Locations Based on Data. <br/>
 1. By utilizing data on population and the number of welfare facilities in each region, we conducted clustering to select areas that need to be converted into 
 ECC based on the proportional and inversely proportional relationships of the compared data. <br/>
 1. Clustering was performed using DBSCAN, and the hyperparameters were derived through GridSearch. <br/>
 1. As a result, we identified Nowon-gu, Gangseo-gu, Yangcheon-gu, Songpa-gu, and Seongbuk-gu as areas urgently requiring conversion into ECCs.
+
 
 <br/>
 
@@ -76,7 +112,7 @@ ECC based on the proportional and inversely proportional relationships of the co
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
 
-- `Contents` <br/>
+- `Contents:` <br/>
 1. Collected performance metrics for KBO players who signed FA contracts from 2019 to 2023. <br/>
 1. Analyzed the correlation between performance metrics and salaries for pitchers and batters. <br/>
 1. Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher. 
