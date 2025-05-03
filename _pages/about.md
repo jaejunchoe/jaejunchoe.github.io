@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Jaejoon Choi's Pages!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Introduction
+-----
+
+안녕하세요, 저는 경희대학교 산업경영공학과 지능형에너지융합전공 석사과정에 재학 중에 있습니다. 현재 대학원 석사과정으로 [인공지능 & 경영과학 연구실(Artificial Intelligence & Management Science Lab)](https://sites.google.com/khu.ac.kr/aims/home)에 소속되어있습니다. 저의 관심 연구분야는 `Defect Detection, Anomaly Detection, Data Mining`입니다.
 
 Title 1
 ======
