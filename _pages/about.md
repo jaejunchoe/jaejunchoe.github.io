@@ -39,15 +39,15 @@ Project Lists & Experiences
 **Projects**
 ----
 
-Project 2. **공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)**
-- `with` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
+**Project 2.** 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)
+- `with:` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
 - `period of affiliation:` Kumoh National Institute of Technology
 - `Role:` Assist a Prof. Kyuho Maeng.
 
 <br/>
 
-**Project 1. 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발**
-- `with` Bokwang Industry Co., Ltd. / 2024.10
+**Project 1.** 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발
+- `with:` Bokwang Industry Co., Ltd. / 2024.10
 - `period of affiliation:` Kumoh National Institute of Technology
 - `Role:` Assist a Prof. Youngsil Lee.
 
