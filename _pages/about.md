@@ -21,7 +21,8 @@ Introduction
 Hello! I am currently pursuing a master’s degree in the Intelligent Energy Convergence program within the Department of Industrial and Management Engineering at Kyung Hee University. I am affiliated with the [Artificial Intelligence & Management Science Lab](https://sites.google.com/khu.ac.kr/aims/home) as a graduate student. My research interests are in `Defect Detection, Anomaly Detection, and Data Mining`.
 
 
-
+<br/>
+<br/>
 
 Experiences
 ======
@@ -30,6 +31,7 @@ Experiences
 - `Apr.2023 - Feb.2024`, Undergraduate Research Student, [Kumoh National Institute of Technology Industry-academic Cooperation Foundation](http://sian3.adbank.co.kr/kit_iacf/main/sub01/sub01_03.html), Kumoh National Institute of Technology, Gumi, Korea
 
 
+<br/>
 <br/>
 
 
