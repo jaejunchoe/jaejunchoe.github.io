@@ -39,26 +39,45 @@ Project Lists & Experiences
 **Projects**
 ----
 
-**Project 2.** 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)
-- `with:` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
-- `period of affiliation:` Kumoh National Institute of Technology
-- `Role:` Assist a Prof. Kyuho Maeng.
+**Project 2.** 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발
+- `With:` Bokwang Industry Co., Ltd. / 2024.10
+- `Period of affiliation:` Kumoh National Institute of Technology
+- `Role:` Assist a Prof. Youngsil Lee.
 
 <br/>
 
-**Project 1.** 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발
-- `with:` Bokwang Industry Co., Ltd. / 2024.10
-- `period of affiliation:` Kumoh National Institute of Technology
-- `Role:` Assist a Prof. Youngsil Lee.
-
+**Project 1.** 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)
+- `With:` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
+- `Period of affiliation:` Kumoh National Institute of Technology
+- `Role:` Assist a Prof. Kyuho Maeng.
 
 <br/>
 <br/>
 
 
 **Side Projects**
+----
 
-The .
+**Side Project 1.** 2024년 FA(자유계약선수) 자격을 갖춘 KBO 선수들의 연봉 예측(Salary prediction for KBO players eligible for FA (Free Agent) in 2024)
+- `Role:` Team Member & Presenter
+- `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
+
+<br/>
+
+- `Contents`
+• Collected performance metrics for KBO players who signed FA contracts from 2019 to 2023. <br/>
+• Analyzed the correlation between performance metrics and salaries for pitchers and batters. <br/>
+• Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher. 
+
+
+
+
+
+
+
+
+
+
 
 How to edit your site's GitHub repository
 ------
