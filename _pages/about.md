@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-----
 
 Introduction
------
+======
 
 안녕하세요, 저는 경희대학교 산업경영공학과 지능형에너지융합전공 석사과정에 재학 중에 있습니다. 현재 대학원 석사과정으로 [인공지능 & 경영과학 연구실(Artificial Intelligence & Management Science Lab)](https://sites.google.com/khu.ac.kr/aims/home)에 소속되어있습니다. 저의 관심 연구분야는 `Defect Detection, Anomaly Detection, Data Mining`입니다.
 
