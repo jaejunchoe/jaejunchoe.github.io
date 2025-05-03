@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Jaejoon Choe (Jaejun Choe)"
+title: "Jaejoon Choi (Jaejun Choe)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to Jaejoon Choe (Jaejun Choe)'s Pages!
+Welcome to Jaejoon Choi (Jaejun Choe)'s Pages!
 -----
 
 <br/>
