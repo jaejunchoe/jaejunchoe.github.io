@@ -130,7 +130,7 @@ ECC based on the proportional and inversely proportional relationships of the co
 📄**Side Project 1.** 쇼핑카트의 불편한 점을 해결하는 새로운 아이디어 발굴 및 디자인권 등록(Developing innovative ideas to address the inconveniences of shopping carts and registering design rights)
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Product·System Design Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.04 ~ 2023.06
-- `Patent:` A Design Right with the Korea Intellectual Property Rights Information Service (KIPRIS) under [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001)
+- 📄`Patent:` A Design Right with the Korea Intellectual Property Rights Information Service (KIPRIS) under [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001)
 - `Contents:` <br/>
 1. It was designed so that the front panel can rotate open around a hinge axis while the cart is adjusted to match the height of the checkout counter. <br/>
 1. A holder for a mobile phone and beverage container was added to the handle, and the front panel can be opened and closed by rotating around the hinge axis for easy access to items. Additionally, a height-adjustment function was included by using a hydraulic lever to vary the distance between the wheels. <br/>
