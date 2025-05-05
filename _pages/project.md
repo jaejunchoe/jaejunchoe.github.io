@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "(Side) Project"
+title: "Project Lists & Experiences"
 permalink: /project/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Project Lists & Experiences
-======
 
 **Projects**
 ----
