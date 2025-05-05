@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * `2025.02 - Present`, M.S.  Department of Industrial and Management Systems Engineering(Intelligent Energy Convergence), Kyung Hee University, Yongin, Korea
 * `2023.03 - 2025.02`, Covergence Major., Major of Smart Factory, Kumoh National Institute of Technology, Gumi, Korea
 * `2019.03 - 2025.02`, B.S., Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
 
+<br/>
 
 Experiences
 ======
@@ -22,6 +24,7 @@ Experiences
 * `Mar.2024 - Feb.2025`, Undergraduate Research Assistant Student, [HAIDS Lab](https://sites.google.com/view/ids-kit/home), Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
 * `Apr.2023 - Feb.2024`, Undergraduate Research Student, [Kumoh National Institute of Technology Industry-academic Cooperation Foundation](http://sian3.adbank.co.kr/kit_iacf/main/sub01/sub01_03.html), Kumoh National Institute of Technology, Gumi, Korea
   
+<br/>
 
 Publications
 ======
@@ -29,13 +32,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-Projects
-======
-  <ul>{% for post in site.projects reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+<br/>
 
 Awards & Honors
 ======
@@ -47,11 +44,13 @@ Awards & Honors
   * `Dec.2023`, Grand Prize from President's Award from Korea Electric Power Corporation(KEPCO), Gumi Industrial Complex Energy Self-Sufficiency Datathon (Service Sector), (KRW 4,000,000)
   * `Oct.2023`, Excellence Prize from University President's Award from Kumoh National Institute of Technology, (KRW 500,000)
 
+<br/>
 
 Design Patent
 ======
 * Cho, S., CHUNG, M., JEON, M., CHOE, J. , JEONG, Y., CHOI, J., "쇼핑카트", Korean Intellectual Property Office, [KR-Registration No. 3012568290000]((https://doi.org/10.8080/3020230035785.M001)), April, 2024 
 
+<br/>
 
 LICENSE AND CERTIFICATE
 ======
@@ -62,20 +61,3 @@ LICENSE AND CERTIFICATE
 
 
 
-
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
