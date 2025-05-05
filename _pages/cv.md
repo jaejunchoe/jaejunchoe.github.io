@@ -44,12 +44,15 @@ Projects
 Awards & Honors
 ======
 * Awards
-  * `Dec.2023`, Grand Prize from President's Award from Korea Electric Power Corporation(KEPCO), Gumi Industrial Complex Energy Self-Sufficiency Datathon (Service Sector), (KRW 4,000,000)
-  * `Oct.2023`, Excellence Prize from University President's Award from Kumoh National Institute of Technology, (KRW 500,000)
+  * `Dec.2023`, Grand Prize from President's Award from Korea Electric Power Corporation(KEPCO), Gumi Industrial Complex Energy Self-Sufficiency Datathon (Service Sector), <strong>(KRW 4,000,000)</strong>
+  * `Oct.2023`, Excellence Prize from University President's Award from Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
 
 * Honors
-  * `Dec.2023`, Grand Prize from President's Award from Korea Electric Power Corporation(KEPCO), Gumi Industrial Complex Energy Self-Sufficiency Datathon (Service Sector), (KRW 4,000,000)
-  * `Oct.2023`, Excellence Prize from University President's Award from Kumoh National Institute of Technology, (KRW 500,000)
+  * `Aug.2024`, Academic Excellence Scholarship( Awarded to students of the Smart Factory Convergence major), Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
+  * `Aug.2024`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
+  * `Feb.2024`, Academic Excellence Scholarship( Awarded to students of the Smart Factory Convergence major), Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
+  * `Feb.2024`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
+  * `Aug.2023`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
 
 <br/>
 
