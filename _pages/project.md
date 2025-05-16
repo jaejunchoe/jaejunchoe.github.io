@@ -16,14 +16,12 @@ redirect_from:
 **Project 2.** 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발
 - `With:` Bokwang Industry Co., Ltd. / 2024.10
 - `Period of affiliation:` Kumoh National Institute of Technology
-- `Role:` Assisted a Prof. Youngsil Lee in TechCare365.
 
 <br/>
 
 **Project 1.** 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)
 - `With:` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
 - `Period of affiliation:` Kumoh National Institute of Technology
-- `Role:` Assisted a Prof. Kyuho Maeng.
 
 
 <br/>
@@ -94,7 +92,7 @@ ECC based on the proportional and inversely proportional relationships of the co
 
 <br/>
 
-📄**Side Project 1.** 쇼핑카트의 불편한 점을 해결하는 새로운 아이디어 발굴 및 디자인권 등록(Developing innovative ideas to address the inconveniences of shopping carts and registering design rights)
+📄**Side Project 1.** 쇼핑카트의 불편한 점을 해결하는 새로운 아이디어 발굴 및 디자인권 등록(Developing innovative ideas to address the inconveniences of shopping carts and registering design patent)
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Product·System Design Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.04 ~ 2023.06
 - 📄`Patent:` A Design Right with the Korea Intellectual Property Rights Information Service (KIPRIS) under [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001)
