@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaejoon Choi (Jaejun Choe)"
+title: "최재준"
 author_profile: true
 redirect_from: 
   - /about/
