@@ -60,7 +60,7 @@ refine the service ideas.
 🥈**Side Project 4.** 대학 발전을 위한 정책 아이디어(A Policy Idea For University Development)
 - `Role:` Team Leader
 - `Period:` In-Campus Contest conducted in the Policy Idea Contest for University Development at Kumoh National Institute of Technology, 2023.09 ~ 2023.11
-- 🏆`Prize:` [Excellence Prize]('/images/금오공대_정책_공모전_우수.jpg'), University President's Award from Kumoh National Institute of Technology, KRW 500,000
+- 🏆`Prize:` [Excellence Prize](/images/금오공대_정책_공모전_우수.jpg), University President's Award from Kumoh National Institute of Technology, KRW 500,000
 - `Contents:`  <br/>
 1. We will establish a “School of Liberal Studies” for undergraduate students to strengthen their convergence capabilities and expand opportunities for major exploration.  <br/>
 1. We will improve the course evaluation system to facilitate better communication between students and professors.  <br/>
