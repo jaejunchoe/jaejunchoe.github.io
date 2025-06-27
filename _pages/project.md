@@ -31,7 +31,7 @@ redirect_from:
 **Side Projects**
 ----
 
-**Side Project 6.** Vision Transformer와 유사도 기반 반도체 혼합 결합 유형 예측(Prediction of Mixed Defect Types in Semiconductors Using Vision Transformer and Similarity-Based Methods)
+**Side Project 6.** [Vision Transformer와 유사도 기반 반도체 혼합 결합 유형 예측(Prediction of Mixed Defect Types in Semiconductors Using Vision Transformer and Similarity-Based Methods)](https://github.com/jaejunchoe/2024-1_Capstone-Design)
 - `Role:` Individual
 - `Period:` Individual Project conducted in a Capstone Design Lecture under the supervision of Prof. Young-Sil Lee at Kumoh National Institute of Technology, 1st Semester 2024 , 2024.03 ~ 2024.05
 - `Contents:` <br/>
@@ -43,10 +43,10 @@ satisfactory.  <br/>
 
 <br/>
 
-🥇**Side Project 5.** EG(Eco Gumi)-Service: 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)
+🥇**Side Project 5.** [EG(Eco Gumi)-Service](https://sotong.go.kr/front/epilogue/epilogueCnddtWrkViewPage.do): 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)
 - `Role:` Team Member
 - `Period:` Datathon Contest conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
-- 🏆`Prize:` Grand Prize, President's Award from Korea Electric Power Corporation(KEPCO), (KRW 4,000,000)
+- 🏆`Prize:` [Grand Prize]('/images/구미산단 데이터톤.jpg'), President's Award from Korea Electric Power Corporation(KEPCO), KRW 4,000,000
 - `Contents:` <br/>
 1. Developed a service idea(EG-Service). <br/>
 1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on 
@@ -60,7 +60,7 @@ refine the service ideas.
 🥈**Side Project 4.** 대학 발전을 위한 정책 아이디어(A Policy Idea For University Development)
 - `Role:` Team Leader
 - `Period:` In-Campus Contest conducted in the Policy Idea Contest for University Development at Kumoh National Institute of Technology, 2023.09 ~ 2023.11
-- 🏆`Prize:` Excellence Prize, University President's Award from Kumoh National Institute of Technology, (KRW 500,000)
+- 🏆`Prize:` [Excellence Prize]('images/금오공대 정책 공모전_우수.jpg'), University President's Award from Kumoh National Institute of Technology, KRW 500,000
 - `Contents:`  <br/>
 1. We will establish a “School of Liberal Studies” for undergraduate students to strengthen their convergence capabilities and expand opportunities for major exploration.  <br/>
 1. We will improve the course evaluation system to facilitate better communication between students and professors.  <br/>
@@ -70,7 +70,7 @@ refine the service ideas.
 
 <br/>
 
-**Side Project 3.** 서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안(Proposed elder care centers in Seoul and identified optimal locations using AI)
+**Side Project 3.** [서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안(Proposed elder care centers in Seoul and identified optimal locations using AI)](https://github.com/jaejunchoe/2023-Seoul-Artificial-Intelligence-Idea-Challenge)
 - `Role:` Team Member
 - `Period:` Contest conducted in the 2023 Seoul Artificial Intelligence Idea Challenge, 2023.08 ~ 2023.10
 - `Contents:` <br/>
@@ -82,7 +82,7 @@ ECC based on the proportional and inversely proportional relationships of the co
 
 <br/>
 
-**Side Project 2.** 2024년 FA(자유계약선수) 자격을 갖춘 KBO 선수들의 연봉 예측(Salary prediction for KBO players eligible for FA (Free Agent) in 2024)
+**Side Project 2.** [2024년 FA(자유계약선수) 자격을 갖춘 KBO 선수들의 연봉 예측(Salary prediction for KBO players eligible for FA (Free Agent) in 2024)](https://github.com/jaejunchoe/Prediction-of-2024-KBO-Players-Free-Agency-Salaries)
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
 - `Contents:` <br/>
@@ -92,7 +92,7 @@ ECC based on the proportional and inversely proportional relationships of the co
 
 <br/>
 
-📄**Side Project 1.** 쇼핑카트의 불편한 점을 해결하는 새로운 아이디어 발굴 및 디자인권 등록(Developing innovative ideas to address the inconveniences of shopping carts and registering design patent)
+📄**Side Project 1.** [쇼핑카트의 불편한 점을 해결하는 새로운 아이디어 발굴 및 디자인권 등록(Developing innovative ideas to address the inconveniences of shopping carts and registering design patent)](https://doi.org/10.8080/3020230035785.M001)
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Product·System Design Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.04 ~ 2023.06
 - 📄`Patent:` A Design Right with the Korea Intellectual Property Rights Information Service (KIPRIS) under [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001)
