@@ -46,7 +46,7 @@ satisfactory.  <br/>
 🥇**Side Project 5.** [EG(Eco Gumi)-Service: 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon)
 - `Role:` Team Member
 - `Period:` Datathon Contest conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
-- 🏆`Prize:` [![Grand Prize]('jaejunchoe/jaejunchoe.github.io/images/구미산단_데이터톤.jpg')], President's Award from Korea Electric Power Corporation(KEPCO), KRW 4,000,000
+- 🏆`Prize:` [Grand Prize]('https://github.com/jaejunchoe/jaejunchoe.github.io/images/구미산단_데이터톤.jpg'), President's Award from Korea Electric Power Corporation(KEPCO), KRW 4,000,000
 - `Contents:` <br/>
 1. Developed a service idea(EG-Service). <br/>
 1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on 
