@@ -43,10 +43,10 @@ satisfactory.  <br/>
 
 <br/>
 
-🥇**Side Project 5.** [EG(Eco Gumi)-Service](https://sotong.go.kr/front/epilogue/epilogueCnddtWrkViewPage.do): 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)
+🥇**Side Project 5.** [EG(Eco Gumi)-Service](jaejunchoe/jaejunchoe.github.io/images/서비스부문_대상_K2R1.jpg): 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)
 - `Role:` Team Member
 - `Period:` Datathon Contest conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
-- 🏆`Prize:` [Grand Prize]('/images/구미산단 데이터톤.jpg'), President's Award from Korea Electric Power Corporation(KEPCO), KRW 4,000,000
+- 🏆`Prize:` [Grand Prize]('jaejunchoe/jaejunchoe.github.io/images/구미산단 데이터톤.jpg'), President's Award from Korea Electric Power Corporation(KEPCO), KRW 4,000,000
 - `Contents:` <br/>
 1. Developed a service idea(EG-Service). <br/>
 1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on 
@@ -60,7 +60,7 @@ refine the service ideas.
 🥈**Side Project 4.** 대학 발전을 위한 정책 아이디어(A Policy Idea For University Development)
 - `Role:` Team Leader
 - `Period:` In-Campus Contest conducted in the Policy Idea Contest for University Development at Kumoh National Institute of Technology, 2023.09 ~ 2023.11
-- 🏆`Prize:` [Excellence Prize]('images/금오공대 정책 공모전_우수.jpg'), University President's Award from Kumoh National Institute of Technology, KRW 500,000
+- 🏆`Prize:` [Excellence Prize]('jaejunchoe/jaejunchoe.github.io/images/금오공대 정책 공모전_우수.jpg'), University President's Award from Kumoh National Institute of Technology, KRW 500,000
 - `Contents:`  <br/>
 1. We will establish a “School of Liberal Studies” for undergraduate students to strengthen their convergence capabilities and expand opportunities for major exploration.  <br/>
 1. We will improve the course evaluation system to facilitate better communication between students and professors.  <br/>
