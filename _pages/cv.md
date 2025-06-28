@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/최종_CV_ver10.pdf.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800" height="400" style="display: block; margin: auto; border: none;"></iframe>
+<iframe src="/files/최종_CV_ver10.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800" height="400" style="display: block; margin: auto; border: none;"></iframe>
 [CV Download](/files/최종_CV_ver10.pdf)
 
 
