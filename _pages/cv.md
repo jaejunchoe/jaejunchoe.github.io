@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/최종_CV_ver10.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800" height="400" style="display: block; margin: auto; border: none;"></iframe>
+<iframe src="/files/최종_CV_ver10.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800" height="800" style="display: block; margin: auto; border: none;"></iframe>
 [CV Download](/files/최종_CV_ver10.pdf)
 
 
@@ -63,7 +63,7 @@ Awards & Honors
 
 Design Patent
 ======
-* Cho, S., CHUNG, M., JEON, M., CHOE, J. , JEONG, Y., CHOI, J., "쇼핑카트", Korean Intellectual Property Office, [KR-Registration No. 3012568290000]((https://doi.org/10.8080/3020230035785.M001)), April, 2024 
+* Cho, S., CHUNG, M., JEON, M., <strong>CHOE, J.</strong> , JEONG, Y., CHOI, J., "쇼핑카트", Korean Intellectual Property Office, [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001), April, 2024 
 
 <br/>
 
