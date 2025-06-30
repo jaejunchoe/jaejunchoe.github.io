@@ -41,7 +41,7 @@ Publications
 Projects
 ======
 * `Oct.2024`, 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발, Bokwang Industry Co., Ltd., Kumoh National Institute of Technology, Gumi, Korea
-* `May.2024 - Sep.2024`, 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems), Defense Acquisition Program Administration (DAPA), Kumoh National Institute of Technology, Gumi, Korea
+* `May.2024 - Aug.2024`, 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems), Defense Acquisition Program Administration (DAPA), Kumoh National Institute of Technology, Gumi, Korea
 
 <br/>
 

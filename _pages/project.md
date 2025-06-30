@@ -20,7 +20,7 @@ redirect_from:
 <br/>
 
 **Project 1.** 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems)
-- `With:` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.11
+- `With:` Defense Acquisition Program Administration (DAPA) / 2024.05 ~ 2024.8
 - `Period of affiliation:` Kumoh National Institute of Technology
 
 
