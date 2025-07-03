@@ -16,7 +16,7 @@ redirect_from:
 
 Education
 ======
-* `2025.02 - Present`, M.S.  Department of Industrial and Management Systems Engineering(Intelligent Energy Convergence), Kyung Hee University, Yongin, Korea
+* `2025.03 - Present`, M.S.  Department of Industrial and Management Systems Engineering(Intelligent Energy Convergence), Kyung Hee University, Yongin, Korea
 * `2023.03 - 2025.02`, Covergence Major., Major of Smart Factory, Kumoh National Institute of Technology, Gumi, Korea
 * `2019.03 - 2025.02`, B.S., Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
 
