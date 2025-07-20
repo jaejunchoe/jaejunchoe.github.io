@@ -23,7 +23,7 @@ Introduction
 
 
 Hello! I'm currently pursuing a master’s degree in the Intelligent Energy Convergence program within the Department of Industrial and Management Engineering at Kyung Hee University. I'm affiliated with the [Artificial Intelligence & Management Science Lab](https://sites.google.com/khu.ac.kr/aims/home) as a graduate student. My research interests are in `Defect Detection, Anomaly Detection, and Data Mining`.
-333
+
 
 <br/>
 <br/>
