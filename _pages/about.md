@@ -9,10 +9,6 @@ redirect_from:
 
 Welcome to Jaejoon Choi (Jaejun Choe)'s Pages!
 -----
-Contact: cjj1222@khu.ac.kr
-
-<br/>
------
 
 <br/>
 
