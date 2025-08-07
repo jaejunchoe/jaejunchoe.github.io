@@ -15,10 +15,10 @@ Welcome to Jaejoon Choi (Jaejun Choe)'s Pages!
 Introduction
 ======
 -----
-안녕하세요, 저는 경희대학교 산업경영공학과 지능형에너지융합전공 석사과정에 재학 중에 있습니다. 현재 대학원 석사과정으로 [인공지능 & 경영과학 연구실(Artificial Intelligence & Management Science Lab)](https://sites.google.com/khu.ac.kr/aims/home)에 소속되어있습니다. 저의 관심 연구분야는 `Defect Detection, Anomaly Detection, Data Mining`입니다.
+안녕하세요, 저는 경희대학교 산업경영공학과 지능형에너지융합전공 석사과정 재학 중이며, [인공지능 & 경영과학 연구실(Artificial Intelligence & Management Science Lab)](https://sites.google.com/khu.ac.kr/aims/home)에 소속되어있습니다. 저의 관심 연구분야는 `Defect Detection, Anomaly Detection, Data Mining`입니다.
 
+Hello! I'm pursuing a Master's degree in the Department of Industrial and Management Engineering at Kyung Hee University, as a graudate student of the [Artificial Intelligence & Management Science Lab](https://sites.google.com/khu.ac.kr/aims/home)
 
-Hello! I'm currently pursuing a master’s degree in the Intelligent Energy Convergence program within the Department of Industrial and Management Engineering at Kyung Hee University. I'm affiliated with the [Artificial Intelligence & Management Science Lab](https://sites.google.com/khu.ac.kr/aims/home) as a graduate student. My research interests are in `Defect Detection, Anomaly Detection, and Data Mining`.
 
 
 <br/>
