@@ -10,7 +10,7 @@ collection: portfolio
 
 - Summary: 
 
-
+1
 This chapter covered several methods for fine-tuning pretrained models for specific classification tasks. Key techniques included:
 
 `Standard Fine-Tuning:` Fine-tuning a BERT model, with the option to freeze certain layers to preserve learned representations.
