@@ -9,15 +9,17 @@ collection: portfolio
 
 
 - Summary: 
+
+
 This chapter covered several methods for fine-tuning pretrained models for specific classification tasks. Key techniques included:
 
-Standard Fine-Tuning: Fine-tuning a BERT model, with the option to freeze certain layers to preserve learned representations.
+`Standard Fine-Tuning:` Fine-tuning a BERT model, with the option to freeze certain layers to preserve learned representations.
 
-Few-Shot Classification: Using a technique called SetFit to achieve high performance on tasks with very limited labeled data.
+`Few-Shot Classification:` Using a technique called SetFit to achieve high performance on tasks with very limited labeled data.
 
-Continued Pretraining: Adapting a pretrained model to new data using its original training objective, masked language modeling.
+`Continued Pretraining:` Adapting a pretrained model to new data using its original training objective, masked language modeling.
 
-Token-Level Classification: Performing named-entity recognition (NER), which classifies individual words rather than entire documents.
+`Token-Level Classification:` Performing named-entity recognition (NER), which classifies individual words rather than entire documents.
 
 
 
