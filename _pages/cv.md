@@ -13,7 +13,6 @@ redirect_from:
 [CV Download](/files/최종_CV_ver12.pdf)
 
 
-
 Education
 ======
 * `2025.03 - Present`, M.S., Department of Industrial and Management Systems Engineering(Intelligent Energy Convergence), Kyung Hee University, Yongin, Korea
