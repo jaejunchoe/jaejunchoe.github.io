@@ -30,23 +30,33 @@ redirect_from:
 
 **Side Projects**
 ----
+**Side Project 7.** RAG-FSR(Retrieval Augmented Generation-Food Science Research): 자연어 처리와 검색 증강 생성을 통한 식품 연구 저널 분류 언어 모델(A Language Model for Classifying Food Research Journals using Natural Language Processing and Retrieval-Augmented Generation)
+- `Role:` Team Member
+- `Period:` Data Analysis Sector conducted in 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition, 2025.06 ~ 2025.07
+- 🏆`Prize:` [Excellence Prize](/images/한국식품연구원_상장1.jpg), President from President of Korea Food Research Institute (KFRI), <strong>KRW 500,000</strong>
+- `Contents:` <br/>
+1. As the volume of academic data in science and technology rapidly increases, researchers are facing difficulties in searching for prior studies and classifying content due to the limitations of existing keyword-based search systems. <br/>
+1. To address this problem, we propose and implement RAG-FSR (Retrieval-Augmented Generation for Food Science Research), a language model specialized for the food research domain that utilizes Retrieval-Augmented Generation (RAG) technology. <br/>
+1. The results showed that RAG-FSR achieved an accuracy of 0.960, particularly in the multi-keyword classification task. Furthermore, on the exact-match accuracy metric for abstract generation, our model performed approximately 4-9 times better than the baseline models. <br/>
+1. This empirically demonstrates that the proposed model effectively mitigates the hallucination phenomenon common in large language models and can function as a highly accurate and reliable information classification and retrieval system for food science research data. <br/>
+
+<br/>
 
 **Side Project 6.** [Vision Transformer와 유사도 기반 반도체 혼합 결합 유형 예측(Prediction of Mixed Defect Types in Semiconductors Using Vision Transformer and Similarity-Based Methods)](https://github.com/jaejunchoe/2024-1_Capstone-Design)
 - `Role:` Individual
 - `Period:` Individual Project conducted in a Capstone Design Lecture under the supervision of Prof. Young-Sil Lee at Kumoh National Institute of Technology, 1st Semester 2024 , 2024.03 ~ 2024.05
 - `Contents:` <br/>
 1. The goal is to predict dual defect types in data using only single defect data. <br/>
-1. Two models based on Vision Transformers and KNN algorithms were designed, using Euclidean and Gaussian distance calculation methods for 
-comparative analysis. <br/>
+1. Two models based on Vision Transformers and KNN algorithms were designed, using Euclidean and Gaussian distance calculation methods for comparative analysis. <br/>
 1. Prediction of dual defect types involving 'Edge_Loc' showed higher accuracy than previous studies using CNN, but overall performance was not 
 satisfactory.  <br/>
 
 <br/>
 
-🥇**Side Project 5.** [EG(Eco Gumi)-Service: 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(EG(Eco Gumi)-Service: Integrated Platform for Energy Efficiency and Sustainable Energy Use)](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon)
+🥇**Side Project 5.** [EG(Eco Gumi)-Service: 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(Integrated Platform for Energy Efficiency and Sustainable Energy Use)](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon)
 - `Role:` Team Member
-- `Period:` Datathon Contest conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
-- 🏆`Prize:` [Grand Prize](/images/구미산단_데이터톤.jpg), President's Award from Korea Electric Power Corporation(KEPCO), <strong>KRW 4,000,000</strong>
+- `Period:` Service Sector conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
+- 🏆`Prize:` [Grand Prize](/images/구미산단_데이터톤.jpg), President from Korea Electric Power Corporation(KEPCO), <strong>KRW 4,000,000</strong>
 - `Contents:` <br/>
 1. Developed a service idea(EG-Service). <br/>
 1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on 
