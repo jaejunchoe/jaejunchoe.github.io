@@ -48,7 +48,7 @@ Awards & Honors
 ======
 * Awards
   * `Sep.2025`, 🥈[Excellence Prize from President of Korea Food Research Institute (KFRI)](/images/한국식품연구원_상장1.jpg), 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition (Data Analysis Sector), <strong>(KRW 500,000)</strong>
-  * `Aug.2025`, 🥈[Best Paper Award at the Korea Data Mining Society](/images/Best_Paper_Award_2025_Summer_KDMS.png), 2025 Summer Conference of the Korea Data Mining Society(KDMS)
+  * `Aug.2025`, 🏆[Best Paper Award at the Korea Data Mining Society](/images/Best_Paper_Award_2025_Summer_KDMS.png), 2025 Summer Conference of the Korea Data Mining Society(KDMS)
   * `Dec.2023`, 🥈[Excellence Prize from Planning and Cooperation Office of Kumoh National Institute of Technology (KIT)](/images/금오공대_공학실습관_네이밍_우수.jpg), Naming Contest for Convergent Engineering Practice Building and Convergent Undergraduate Organization (Convergent Engineering Practice Building Sector)
   * `Dec.2023`, 🥇[Grand Prize from President of Korea Electric Power Corporation (KEPCO)](/images/구미산단_데이터톤.jpg), 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon (Service Sector), <strong>(KRW 4,000,000)</strong>
   * `Oct.2023`, 🥈[Excellence Prize from University President's Award of Kumoh National Institute of Technology (KIT)](/images/금오공대_정책_공모전_우수.jpg), A Policy Idea For University Development, <strong>(KRW 500,000)</strong>
