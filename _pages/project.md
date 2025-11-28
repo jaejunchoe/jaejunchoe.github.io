@@ -30,10 +30,24 @@ redirect_from:
 
 **Side Projects**
 ----
+**Side Project 8.**  CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)
+- `Role:` Team Member
+- `Period:` 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition, 2025.09 ~ 2025.10
+- 🏆`Prize:` [Excellence Prize](images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
+- `Contents:` <br/>
+1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning. <br/>
+1. We proposed EMA-Based Adaptive Mutation, a lightweight and real-time operator scheduling mechanism that learns mutations capable of discovering new paths. <br/>
+1. We implemented Plateau Detection to automatically identify coverage stagnation and integrated optional LLM support to generate diverse initial seeds. <br/>
+1. By presenting a novel approach for structured input fuzzing via Parse-Rate Driven Curriculum Learning, Lightweight EMA-Based Scheduling, and an Automatic Phase Transition Mechanism, we demonstrated suitability for real-time high-throughput fuzzing and achieved synergy between parse-rate phases and coverage monitoring. <br/>
+1. Through this approach, we demonstrated superior performance in both code coverage (+4.03%) and execution speed (+6.50%) compared to standard AFL++, significantly enhancing the efficiency of vulnerability analysis for software with complex structures. <br/>
+
+
+<br/>
+
 **Side Project 7.** RAG-FSR(Retrieval Augmented Generation-Food Science Research): 자연어 처리와 검색 증강 생성을 통한 식품 연구 저널 분류 언어 모델(A Language Model for Classifying Food Research Journals using Natural Language Processing and Retrieval-Augmented Generation)
 - `Role:` Team Member
 - `Period:` Data Analysis Sector conducted in 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition, 2025.06 ~ 2025.07
-- 🏆`Prize:` [Excellence Prize](/images/한국식품연구원_상장1.jpg), President from President of Korea Food Research Institute (KFRI), <strong>KRW 500,000</strong>
+- 🏆`Prize:` [Top Excellence Prize](/images/한국식품연구원_상장1.jpg), President from President of Korea Food Research Institute (KFRI), <strong>KRW 500,000</strong>
 - `Contents:` <br/>
 1. As the volume of academic data in science and technology rapidly increases, researchers are facing difficulties in searching for prior studies and classifying content due to the limitations of existing keyword-based search systems. <br/>
 1. To address this problem, we propose and implement RAG-FSR (Retrieval-Augmented Generation for Food Science Research), a language model specialized for the food research domain that utilizes Retrieval-Augmented Generation (RAG) technology. <br/>
@@ -70,7 +84,7 @@ refine the service ideas.
 🥈**Side Project 4.** 대학 발전을 위한 정책 아이디어(A Policy Idea For University Development)
 - `Role:` Team Leader
 - `Period:` In-Campus Contest conducted in the Policy Idea Contest for University Development at Kumoh National Institute of Technology, 2023.09 ~ 2023.11
-- 🏆`Prize:` [Excellence Prize](/images/금오공대_정책_공모전_우수.jpg), University President's Award from Kumoh National Institute of Technology, <strong>KRW 500,000</strong>
+- 🏆`Prize:` [Second Prize](/images/금오공대_정책_공모전_우수.jpg), University President's Award from Kumoh National Institute of Technology, <strong>KRW 500,000</strong>
 - `Contents:`  <br/>
 1. We will establish a “School of Liberal Studies” for undergraduate students to strengthen their convergence capabilities and expand opportunities for major exploration.  <br/>
 1. We will improve the course evaluation system to facilitate better communication between students and professors.  <br/>
