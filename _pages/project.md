@@ -30,7 +30,7 @@ redirect_from:
 
 **Side Projects**
 ----
-**Side Project 8.**  CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)
+**Side Project 8.**  [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/jaejunchoe/CGAFuzz)
 - `Role:` Team Member
 - `Period:` 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition, 2025.09 ~ 2025.10
 - 🏆`Prize:` [Excellence Prize](images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
