@@ -33,7 +33,7 @@ redirect_from:
 **Side Project 8.**  [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/HyeonjongJang/CGAFuzz)
 - `Role:` Team Member
 - `Period:` 2025 AI-Powered Vulnerability Discovery System Competition, 2025.09 ~ 2025.10
-- 🏆`Prize:` [Excellence Prize](images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
+- 🏆`Prize:` [Excellence Prize](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
 - `Contents:` <br/>
 1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning. <br/>
 1. We proposed EMA-Based Adaptive Mutation, a lightweight and real-time operator scheduling mechanism that learns mutations capable of discovering new paths. <br/>
