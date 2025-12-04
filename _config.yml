@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 site_theme               : "default"
-title                    : "Jaejoon Choi"
+title                    : "Hyunjong Jang"
 title_separator          : "-"
-name                     : &name "Jaejoon Choi"
+name                     : &name "Hyunjong Jang"
 description              : &description "personal description"
-url                      : https://jaejunchoe.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://HyeonjongJang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jaejunchoe/jaejunchoe.github.io"
+repository               : "HyeonjongJang/HyeonjongJang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "jaejunchoe/jaejunchoe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jaejoon Choi (Jaejun Choe)"
+  name             : "Hyunjong Jang (장현종)"
   pronouns         : # example: "she/her"  
   bio              : "Industrial and Management Systems Engineering"
   location         : # "Earth"
   employer         : "Kyung Hee University"
-  uri              : # "https://github.com/jaejunchoe"
-  email            : "cjj1222@khu.ac.kr" 
+  uri              : # "https://github.com/HyeonjongJang"
+  email            : "hyunjongjang@khu.ac.kr" 
 
   # Academic websites
   academia         : # URL
