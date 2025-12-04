@@ -71,10 +71,7 @@ Design Patent
 
 LICENSE AND CERTIFICATE
 ======
-* `Jul.2024`, 6 Sigma Green & Black Belt
-* `Jun.2024`, ADsP (Advanced Data Analytics Semi-Professional) 
-* `Feb.2024`, AI-900 Microsoft Azure AI Fundamentals
-* `Aug.2023`, TRIZ Level 1 & 2 
+* `Jul.2023`, SQLD (Structured Query Language Developer)
 
 
 
