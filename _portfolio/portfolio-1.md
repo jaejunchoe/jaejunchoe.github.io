@@ -1,11 +1,11 @@
 ---
 title: "Fine-Tuning Representation Models for Classification"
-excerpt: "Book Study_Hands-On Large Language Models Chapter 11. <br/><img src='/images/bookstudy_ch11_hands_on_large_language_models.jpg'>"
+excerpt: "Book Study_Hands-On Large Language Models Chapter 12. <br/><img src='/images/bookstudy_ch12_hands_on_large_language_models.jpg'>"
 collection: portfolio
 ---
 
 
-- URL: [https://www.youtube.com/watch?v=dOifuWXkKQc&t=1295s](https://www.youtube.com/watch?v=dOifuWXkKQc&t=1295s)
+- URL: [https://www.youtube.com/watch?v=vW85KDuEj30](https://www.youtube.com/watch?v=vW85KDuEj30)
 
 
 - Summary: 
