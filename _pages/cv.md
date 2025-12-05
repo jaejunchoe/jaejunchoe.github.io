@@ -55,11 +55,14 @@ Awards & Honors
   * `Oct.2023`, 🥈[Second Prize from University President's Award of Kumoh National Institute of Technology (KIT)](/images/금오공대_정책_공모전_우수.jpg), A Policy Idea For University Development, <strong>(KRW 500,000)</strong>
 
 * Honors
-  * `Aug.2024`, Academic Excellence Scholarship (Awarded to students of the Smart Factory Convergence major), Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
-  * `Aug.2024`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
-  * `Feb.2024`, Academic Excellence Scholarship (Awarded to students of the Smart Factory Convergence major), Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
-  * `Feb.2024`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
-  * `Aug.2023`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
+  * `Sep.2024`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
+  * `Feb.2024`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
+  * `Sep.2023`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
+  * `Feb.2023`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
+  * `Sep.2022`, Academic Excellence Scholarship, Dongseo University, <strong>(KRW 948,000)</strong>
+  * `Feb.2020`, Dongseo Global Scholarship, Dongseo University, <strong>(KRW 948,000)</strong>
+  * `Sep.2019`, Dongseo Global Scholarship, Dongseo University, <strong>(KRW 948,000)</strong>
+  * `Sep.2019`, Entrepreneurship Scholarship, Dongseo University, <strong>(KRW 568,000)</strong>
 
 <br/>
 
