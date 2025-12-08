@@ -30,7 +30,7 @@ redirect_from:
 
 **Side Projects**
 ----
-**Side Project 8.**  [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/HyeonjongJang/CGAFuzz)
+🥉**Side Project 8.**  [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/HyeonjongJang/CGAFuzz)
 - `Role:` Team Member
 - `Period:` 2025 AI-Powered Vulnerability Discovery System Competition, 2025.09 ~ 2025.10
 - 🏆`Prize:` [Excellence Prize](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
@@ -44,7 +44,7 @@ redirect_from:
 
 <br/>
 
-**Side Project 7.** RAG-FSR(Retrieval Augmented Generation-Food Science Research): 자연어 처리와 검색 증강 생성을 통한 식품 연구 저널 분류 언어 모델(A Language Model for Classifying Food Research Journals using Natural Language Processing and Retrieval-Augmented Generation)
+🥈**Side Project 7.** RAG-FSR(Retrieval Augmented Generation-Food Science Research): 자연어 처리와 검색 증강 생성을 통한 식품 연구 저널 분류 언어 모델(A Language Model for Classifying Food Research Journals using Natural Language Processing and Retrieval-Augmented Generation)
 - `Role:` Team Member
 - `Period:` Data Analysis Sector conducted in 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition, 2025.06 ~ 2025.07
 - 🏆`Prize:` [Top Excellence Prize](/images/한국식품연구원_상장1.jpg), President from President of Korea Food Research Institute (KFRI), <strong>KRW 500,000</strong>
