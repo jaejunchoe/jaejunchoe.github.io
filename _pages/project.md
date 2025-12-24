@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Project Lists & Experiences"
+title: "Projects & Programs and Experiences Lists"
 permalink: /project/
 author_profile: true
 redirect_from:
@@ -9,6 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
+**Experiences**
+----
+
+**Experience 1** [이수파트너스 AI 개발자 및 PM (Isu Partners - AI Developer & Project Manager)](https://esupartners.com/)
+- `Address:` 6th floor, 47 Gwangjang-ro 2beon-gil, Sasang-gu, Busan
+- `Period:` 2023.07 ~ 2024.06 (1 Year)
+- `Role:` Lead AI Developer & Project Manager (Healthcare/Platform)
+- `Contents:` <br/>
+1. Project A [Kinicare: AI-based Personalized Nutrition for Cancer Patients](https://play.google.com/store/apps/details?id=com.utinfra.jihun.kinicare&hl=ko&pli=1)
+a. Lead AI Research & Development: Conducted a major healthcare project in collaboration with Sinchon Severance Hospital, focusing on clinical-grade nutritional analysis.
+
+b. Clinical Algorithm Design: Developed and optimized AI algorithms to provide personalized meal plans for cancer patients based on real-time clinical data and treatment protocols.
+
+c. Full-cycle Dev Management: Managed the core software development process from the R&D stage to the official App Store deployment, ensuring data security and medical compliance.
+2. <br/>
+3. <br/>
+4. <br/>
+
+**Program 5.** [2022년 K-SW스퀘어 겨울방학 프로그램(2022 K-SW Square Winter Vacation Program (Purdue University, USA))](https://uni.dongseo.ac.kr/sw/?pCode=MN1000014&mode=view&idx=1534)
+- `Partner organizations:` Purdue University, IITP (Institute for Information & Communications Technology Planning & Evaluation)
+- `Period:` 2022.12 ~ 2023.02 (8 weeks)
+- `Contents:` <br/>
+1. Participated in an intensive global SW training program at Purdue University, focusing on advanced software engineering and creative problem-solving. <br/>
+2. Collaborative Capstone Project: Conducted a hands-on capstone design project in collaboration with Purdue University students and U.S. software industry engineers to solve real-world technical challenges. <br/>
+3. Technical Expertise: Attended specialized seminars on cutting-edge technologies, including IoT, Machine Learning, and Robotics, while mastering global project management methodologies (Agile, Scrum, etc.). <br/>
+4. Global Professionalism: Enhanced technical communication skills and cross-cultural collaboration through 1:1 mentoring with local experts and interactive English-medium engineering modules.
+
+<br/>
+
+**Program 4.** [2022년 Asia Summer Program(ASP 2022)](https://uni.dongseo.ac.kr/iec/?pCode=MN5000027&mode=view&idx=336&fbclid=IwAR1sNIK9kkcRbxH8uwcrtCgTi4sLZsbbzdrEnpvoTJVi-QCy0xhyPQHt79A)
+- `Partner organizations:` Josai International University, JIU
+- `Period:` 2022.07 ~ 2022.08 (2 weeks)
+- `Contents:` <br/>
+1. Represented Dongseo University in a multi-national academic exchange program hosted virtually by Josai International University, engaging with peers from over 10 Asian countries. <br/>
+2. Completed intensive credit-bearing coursework focused on [Insert your subject, e.g., Global Business / Japanese Culture], delivering final group presentations in a multicultural team environment. <br/>
+3. Facilitated cross-cultural dialogue and collaborative problem-solving, overcoming language barriers and diverse perspectives to achieve shared academic goals. <br/>
+4. Enhanced global leadership and communication competencies through interactive seminars and cultural exchange sessions, gaining a broader understanding of the Asian professional and academic landscape.
+
+<br/>
+
+**Program 3.** [2022년 글로벌 SW 교육 프로그램 (필리핀 UC)(2022 Global SW Education Program (Philippines UC))](https://github.com/jaejunchoe/2023-Seoul-Artificial-Intelligence-Idea-Challenge)
+- `Partner organizations:` University of the Cordilleras (UC), Baguio, Philippines
+- `Period:` 2022.03 ~ 2022.04 (4 weeks)
+- `Contents:` <br/>
+1. Completed an intensive global education program at the University of the Cordilleras (UC) to enhance my professional software engineering skills and technical communication in a global context. <br/>
+2. Selected as a participant based on high academic and language performance and successfully mastered customized IT modules tailored to global industry standards and technical requirements. <br/>
+3. Acquired 'English for IT' and 'Global Communication' skills through interactive Zoom sessions, utilizing 1:1 mentoring with native tutors to ensure a rapid feedback loop and immersive learning. <br/>
+4. Earned an official joint certification from Dongseo University and UC Philippines, while gaining institutional recognition (SMileage) for significant improvements in global teamwork and technical proficiency.
+
+<br/>
+
+**Program 2.** [말레이시아 UTAR 한국문화체험연수 프로그램(Malaysia UTAR Korean Culture Experience Training Program)](https://sarawak.upm.edu.my/content/south_korea_dongseo_universitys_cultural_exchange_programs-49875?L=bm)
+- `Partner organizations:` University of Tunku Abdul Rahman
+- `Period:` 2019.08 ~ 2019.08
+- `Contents:` <br/>
+1. Daily Interpretation Support: Real-time interpretation was provided during Korean language classes and workshops to ensure UTAR students fully understood the content and facilitated Q&A sessions. <br/>
+2. Cultural Tour Guidance: Visits to famous sites such as Haeundae Beach in Busan, Bulguksa Temple in Gyeongju, and Gameunsa Temple Site were enhanced with historical background explanations and entertaining anecdotes to engage students. <br/>
+3. Cultural Experience Accompaniment: Safety guidance and cultural etiquette were provided during Taekwondo demonstrations and Korean food preparation, helping students seamlessly adapt to life in Korea.
+
+<br/>
+
+**Program 1.** [2019 동서 글로벌 영어 프로그램(2019 Dongseo Global English Program)](https://news.unn.net/news/articleView.html?idxno=208379)
+- `Period:` 2019.03 ~ 2019.12
+- 🏆`Prize:` [Grand Award](/images/DGEP.png), Dongseo University President's Award in a speech contest that recognizes one-year achievements, <strong>KRW 200,000</strong>
+- `Contents:` <br/>
+1. To cultivate talented individuals with both English and specialized skills, we select new students and provide intensive English instruction. <br/>
+2. A total of 18 credits per week: Morning: English classes (9 credits), Afternoon: Major and liberal arts classes (up to 9 credits). <br/>
 
 **Projects**
 ----
