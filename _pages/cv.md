@@ -9,24 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <iframe src="/files/최종_CV_ver13.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800" height="800" style="display: block; margin: auto; border: none;"></iframe> -->
-<!-- [CV Download](/files/최종_CV_ver13.pdf) -->
-
-
 Education
 ======
-* `2025.03 - Present`, M.S., Department of Industrial and Management Systems Engineering(Intelligent Energy Convergence), Kyung Hee University, Yongin, Korea
-* `2023.03 - 2025.02`, Covergence Major., Major of Smart Factory, Kumoh National Institute of Technology, Gumi, Korea
-* `2019.03 - 2025.02`, B.S., Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
+* `2025.03 - Present`, M.S., Department of Artificial Intelligence, Kyung Hee University, Yongin, Korea
+* `2019.03 - 2025.02`, B.S., Department of Software, Dongseo University, Busan, Korea
 
 <br/>
 
-Experiences
+Research Experiences
 ======
 * `Mar.2025 - Present`, M.S. Student, [AIMS Lab](https://sites.google.com/khu.ac.kr/aims/home?authuser=0), Department of Industrial and Management Systems Engineering, Kyung Hee University, Yongin, Korea
-* `Mar.2024 - Feb.2025`, Undergraduate Research Assistant Student, [HAIDS Lab](https://sites.google.com/view/ids-kit/home), Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
-* `Apr.2023 - Feb.2024`, Undergraduate Research Student, [Kumoh National Institute of Technology Industry-academic Cooperation Foundation](https://iacf.kumoh.ac.kr/iacf/index.do?sso=ok), Kumoh National Institute of Technology, Gumi, Korea
-  
+* `Mar.2022 - Feb.2025`, Undergraduate Research Student, [AA Lab](https://uni.dongseo.ac.kr/sw/index.php?pCode=MN1000046), Dongseo University, Department of Software, Busan, Korea
+* `Mar.2019 - Jan.2021`, Undergraduate Research Student, [MP Lab](https://uni.dongseo.ac.kr/ictsecurity/index.php?pCode=MN2000017), Dongseo University, Department of Software, Busan, Korea
+
+<br/>
+
+Work Experiences
+======
+* `Feb.2025 - Present`, Dormitory Management Assistant, IDO Co., Ltd. (경희대학교 국제캠퍼스 제2기숙사), Yongin, Korea
+* `Jul.2023 - Jun.2024`, AI Developer & Project Manager, [Esu Partners](https://esupartners.com/), Busan, Korea
+
 <br/>
 
 Publications
@@ -37,44 +39,53 @@ Publications
 
 <br/>
 
-Projects
-======
-* `Sep.2024 - Oct.2024`, 부직포를 이용한 다양한 용도의 매트, 카펫 및 벽지 등에 적용하기 위한 바인더 및 부직포 첨가제 개발, Bokwang Industry Co., Ltd., Kumoh National Institute of Technology, Gumi, Korea
-* `May.2024 - Aug.2024`, 공중 유·무인 복합체계와 상호운용성을 고려한 스텔스 투사체 개발(Developing stealth projectiles for interoperability with airborne manned and unmanned teaming systems), Defense Acquisition Program Administration (DAPA), Kumoh National Institute of Technology, Gumi, Korea
-
-<br/>
-
 Awards & Honors
 ======
 * Awards
-  * `Oct.2025`, 🥉[Excellence Prize from Chairperson of the IT Platform Safety Research Group](images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), 2025 AI-Powered Vulnerability Discovery System Competition, <strong>(KRW 2,000,000)</strong>
-  * `Sep.2025`, 🥈[Top Excellence Prize from President of Korea Food Research Institute (KFRI)](/images/한국식품연구원_상장1.jpg), 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition (Data Analysis Sector), <strong>(KRW 500,000)</strong>
-  * `Aug.2025`, 🏆[Outstanding Paper Award at the Korea Data Mining Society](/images/Best_Paper_Award_2025_Summer_KDMS.png), 2025 Summer Conference of the Korea Data Mining Society(KDMS)
-  * `Dec.2023`, 🥈[Second Prize from Planning and Cooperation Office of Kumoh National Institute of Technology (KIT)](/images/금오공대_공학실습관_네이밍_우수.jpg), Naming Contest for Convergent Engineering Practice Building and Convergent Undergraduate Organization (Convergent Engineering Practice Building Sector)
-  * `Dec.2023`, 🥇[Grand Prize from President of Korea Electric Power Corporation (KEPCO)](/images/구미산단_데이터톤.jpg), 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon (Service Sector), <strong>(KRW 4,000,000)</strong>
-  * `Oct.2023`, 🥈[Second Prize from University President's Award of Kumoh National Institute of Technology (KIT)](/images/금오공대_정책_공모전_우수.jpg), A Policy Idea For University Development, <strong>(KRW 500,000)</strong>
+  * `Oct.2025`, 🥉[Excellence Prize from Chairperson of the IT Platform Safety Research Group](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), 2025 AI-Powered Vulnerability Discovery System Competition, **(KRW 2,000,000)**
+  * `Sep.2025`, 🥈[Top Excellence Prize from President of Korea Food Research Institute (KFRI)](/images/한국식품연구원_상장1.jpg), 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition (Data Analysis Sector), **(KRW 500,000)**
+  * `Aug.2025`, 🏆[Outstanding Paper Award at the Korea Data Mining Society](/images/Best_Paper_Award_2025_Summer_KDMS.png), 2025 Summer Conference of the Korea Data Mining Society (KDMS)
+  * `Dec.2019`, 🥇[Grand Award from President of Dongseo University](/images/DGEP.png), 2019 Dongseo Global English Program Speech Contest, **(KRW 200,000)**
 
 * Honors
-  * `Sep.2024`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
-  * `Feb.2024`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
-  * `Sep.2023`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
-  * `Feb.2023`, National Excellence Scholarship (Science and Engineering), Dongseo University, <strong>(KRW 3,792,000)</strong>
-  * `Sep.2022`, Academic Excellence Scholarship, Dongseo University, <strong>(KRW 948,000)</strong>
-  * `Feb.2020`, Dongseo Global Scholarship, Dongseo University, <strong>(KRW 948,000)</strong>
-  * `Sep.2019`, Dongseo Global Scholarship, Dongseo University, <strong>(KRW 948,000)</strong>
-  * `Sep.2019`, Entrepreneurship Scholarship, Dongseo University, <strong>(KRW 568,000)</strong>
+  * `Sep.2024`, National Excellence Scholarship (Science and Engineering), Dongseo University, **(KRW 3,792,000)**
+  * `Feb.2024`, National Excellence Scholarship (Science and Engineering), Dongseo University, **(KRW 3,792,000)**
+  * `Sep.2023`, National Excellence Scholarship (Science and Engineering), Dongseo University, **(KRW 3,792,000)**
+  * `Feb.2023`, National Excellence Scholarship (Science and Engineering), Dongseo University, **(KRW 3,792,000)**
+  * `Sep.2022`, Academic Excellence Scholarship, Dongseo University, **(KRW 948,000)**
+  * `Feb.2020`, Dongseo Global Scholarship, Dongseo University, **(KRW 948,000)**
+  * `Sep.2019`, Dongseo Global Scholarship, Dongseo University, **(KRW 948,000)**
+  * `Sep.2019`, Entrepreneurship Scholarship, Dongseo University, **(KRW 568,000)**
 
 <br/>
 
-Design Patent
+Global Programs
 ======
-* Cho, S., CHUNG, M., JEON, M., <strong>CHOE, J.</strong> , JEONG, Y., CHOI, J., "쇼핑카트", Korean Intellectual Property Office, [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001), April, 2024 
+* `Aug.2023`, 🌏 Indonesia Creativity Station (Global Engineering Volunteer), Pusan National University & Telkom University, Bandung, Indonesia
+* `Dec.2022 - Feb.2023`, 🇺🇸 K-SW Square Winter Program, Purdue University, West Lafayette, Indiana, USA
+* `Jul.2022 - Aug.2022`, 🇯🇵 Asia Summer Program, Josai International University, Japan
+* `Mar.2022 - Apr.2022`, 🇵🇭 Global SW Education Program, University of the Cordilleras, Baguio, Philippines
+* `Aug.2019`, 🇲🇾 Korean Culture Experience Training Program, University of Tunku Abdul Rahman (UTAR), Malaysia
+
+<br/>
+
+Skills
+======
+* **Programming Languages:** Python, Java, C++, C#, SQL
+* **AI/ML Frameworks:** PyTorch, TensorFlow, LangChain, Hugging Face, FAISS
+* **Web Development:** FastAPI, Streamlit, Flask
+* **Tools & Platforms:** Git, Docker, Unity, Android SDK
+
+<br/>
+
+Languages
+======
+* **Korean:** Native
+* **English:** Professional Working Proficiency
+* **Japanese:** Fluent
 
 <br/>
 
 LICENSE AND CERTIFICATE
 ======
 * `Jul.2023`, SQLD (Structured Query Language Developer)
-
-
-
