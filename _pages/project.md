@@ -12,47 +12,93 @@ redirect_from:
 **Experiences**
 ----
 
-**Experience 1** [이수파트너스 AI 개발자 및 PM (Isu Partners - AI Developer & Project Manager)](https://esupartners.com/)
+**Experience 1.** [이수파트너스 AI 개발자 및 PM (Esu Partners - AI Developer & Project Manager)](https://esupartners.com/)
 - `Address:` 6th floor, 47 Gwangjang-ro 2beon-gil, Sasang-gu, Busan
 - `Period:` 2023.07 ~ 2024.06 (1 Year)
 - `Role:` Lead AI Developer & Project Manager (Healthcare/Platform)
+
+<details>
+<summary><strong>📱 Project A. Kinicare: AI-based Personalized Nutrition for Cancer Patients</strong></summary>
+<div markdown="1">
+
+- `Link:` [Google Play Store](https://play.google.com/store/apps/details?id=com.utinfra.jihun.kinicare&hl=ko&pli=1)
+- `Role:` Lead AI Developer
+- `Tech Stack:` Python, Machine Learning, Mobile App Development
+- `Achievements:` 
+  - 🏥 Joint research project with Severance Hospital (Sinchon)
+  - 📊 Built personalized nutrition algorithm based on 100,000+ cancer patient diet records
+  - 📱 10,000+ downloads on Google Play Store
 - `Contents:` <br/>
-1. Project A [Kinicare: AI-based Personalized Nutrition for Cancer Patients](https://play.google.com/store/apps/details?id=com.utinfra.jihun.kinicare&hl=ko&pli=1)
-Through a joint research project with Severance Hospital in Sinchon, I developed and refined a personalized nutrition management algorithm tailored to cancer type and treatment stage.<br/>
+1. Developed and refined a personalized nutrition management algorithm tailored to cancer type and treatment stage. <br/>
+2. Built a real-time nutritional analysis and personalized feedback engine based on big data. <br/>
+3. Led the entire process from data architecture design to app deployment and operation. <br/>
 
-Based on big data from over 100,000 cancer patient diets, we built a real-time nutritional analysis and personalized feedback engine.<br/>
+</div>
+</details>
 
-Our technology has been downloaded over 10,000 times from the Google Play Store.<br/>
+<details>
+<summary><strong>🛵 Project B. Mukkebi: National Public Delivery Platform</strong></summary>
+<div markdown="1">
 
-I lead the entire process from data architecture design to app deployment and operation, serving as a digital bridge between healthcare providers and users.<br/>
+- `Link:` [Google Play Store](https://play.google.com/store/apps/details?id=mukkebi.user.app.android)
+- `Role:` Project Manager
+- `Tech Stack:` Mobile App Development, Backend Systems, Payment Integration
+- `Achievements:` 
+  - 📈 1.75 million cumulative downloads / 1 million+ on Google Play Store
+  - 🏆 Largest regional coverage nationwide (Seoul, Gyeongbuk, Jeonnam, etc.)
+  - 📊 ~8.6% market share (as of 2025) in public delivery sector
+- `Contents:` <br/>
+1. Oversaw the entire product roadmap and development lifecycle as PM. <br/>
+2. Achieved service stability and enhanced functionality in a high-traffic environment. <br/>
+3. Successfully launched key features including improved UX and local currency-linked payment system. <br/>
 
-2. Project B [Mukkebi: National Public Delivery Platform](https://play.google.com/store/apps/details?id=mukkebi.user.app.android)
-As a PM for "Mokkebi," the public delivery app operating in the largest number of regions nationwide (Seoul, Gyeongbuk, Jeonnam, etc.), he oversaw the entire product roadmap and development lifecycle.<br/>
+</div>
+</details>
 
-Achieving service stability and enhanced functionality in a high-traffic environment with 1.75 million cumulative downloads and over 1 million downloads on the Google Play Store.<br/>
+<details>
+<summary><strong>🎮 Project C. Cocodrone: 3D Drone Simulation for Gaya Historical Exploration</strong></summary>
+<div markdown="1">
 
-Contributed to expanding market share to approximately 8.6% (as of 2025) within the monopolistic structure of private delivery apps, and optimized the technical infrastructure as a platform for small business growth.<br/>
+- `Link:` [Cocodrone Official](http://cocodrone.co.kr/kr/sub3_1.html?pa_id=sub3_1&code=30)
+- `Role:` Core Engine Developer
+- `Tech Stack:` Unity, C#, 3D Modeling, Drone Physics Simulation
+- `Contents:` <br/>
+1. Led the development of the core engine and content for an edutech-based 3D drone simulator. <br/>
+2. Precisely simulated real-world drone flight dynamics using Unity/3D engine. <br/>
+3. Visualized Gaya historical sites in high-resolution virtual space. <br/>
 
-Serving as a bridge between development, design, and business teams, he successfully launched key features such as improved user experience (UX) and a local currency-linked payment system.<br/>
+</div>
+</details>
 
-3. Project C [코코드론(Cocodrone) 3D 시뮬레이션 개발](http://cocodrone.co.kr/kr/sub3_1.html?pa_id=sub3_1&code=30)
-Leading the development of the core engine and content for an edutech-based 3D drone simulator game themed around Gaya historical exploration.<br/>
+<details>
+<summary><strong>⚽ Project D. ODDS: Interactive Screen Futsal System</strong></summary>
+<div markdown="1">
 
-Leveraging the Unity/3D engine, the team precisely simulates the flight dynamics of real-world drones and visualizes historical sites in high-resolution virtual space.<br/>
+- `Role:` Software Architect & Core Engine Developer
+- `Tech Stack:` Unity, Sensor Integration, Projection Mapping, Real-time Tracking
+- `Contents:` <br/>
+1. Designed overall software architecture for the immersive sports platform "ODDS." <br/>
+2. Implemented interactive game logic tracking user movements and ball trajectories in real-time. <br/>
+3. Developed an integrated control system combining hardware and software for optimal UX. <br/>
 
-4. Project D [ODDS: 인터렉션 스크린 풋살 시스템](https://play.google.com/store/apps/details?id=mukkebi.user.app.android)
-Responsible for the overall software architecture design and core engine development for the interactive futsal system of the immersive sports platform "ODDS."<br/>
+</div>
+</details>
 
-Implemented interactive game logic that tracks and scores user movements and ball trajectories in real time by integrating sensor data and projection mapping technology.<br/>
+<details>
+<summary><strong>🗺️ Project E. IDCO: Nationwide Land Zone Assignment & Construction Management Platform</strong></summary>
+<div markdown="1">
 
-Going beyond simple screen sports, we developed an integrated control system that combines hardware and software to provide an optimal user experience (UX).<br/>
+- `Role:` Backend Developer & GIS System Architect
+- `Tech Stack:` Python, GIS, Mobile App Development, Real-time Data Visualization
+- `Contents:` <br/>
+1. Established infrastructure for automatic/manual grid-based construction zone setting and GIS data visualization based on entire South Korean land data. <br/>
+2. Developed worksite-specific zone allocation logic enabling tens of thousands of workers to check assigned zones in real-time via mobile app. <br/>
+3. Improved construction status tracking accuracy and prevented work duplication through digitization. <br/>
 
-5. Project E [IDCO: 전국 단위 토지 구역 배정 및 시공 관리 플랫폼](http://cocodrone.co.kr/kr/sub3_1.html?pa_id=sub3_1&code=30)
-Based on the entire land data of South Korea, we established an infrastructure that automatically and manually sets grid-based construction zones and visualizes and manages GIS data.<br/>
+</div>
+</details>
 
-By developing a worksite-specific zone allocation logic, we implemented a system that allows tens of thousands of workers to check their assigned zones in real time and report construction status via a mobile app.<br/>
-
-By digitizing IDCO's large-scale land management projects, we improved the accuracy of construction status tracking, prevented work duplication among workers, and achieved efficient progress management.<br/>
+<br/>
 
 **Projects**
 ----
@@ -82,73 +128,77 @@ By digitizing IDCO's large-scale land management projects, we improved the accur
 
 <br/>
 
-**Project 6.** [Vision Transformer와 유사도 기반 반도체 혼합 결합 유형 예측(Prediction of Mixed Defect Types in Semiconductors Using Vision Transformer and Similarity-Based Methods)](https://github.com/jaejunchoe/2024-1_Capstone-Design)
-- `Role:` Individual
-- `Period:` Individual Project conducted in a Capstone Design Lecture under the supervision of Prof. Young-Sil Lee at Kumoh National Institute of Technology, 1st Semester 2024 , 2024.03 ~ 2024.05
+**Project 6.** [KyungHee-Chatbot: RAG 기반 경희대학교 학칙 검색 가상 어시스턴트](https://github.com/HyeonjongJang/KyungHee-Chatbot)
+- `Role:` Developer
+- `Period:` 2024 ~ Present
+- `Tech Stack:` Python, LangChain, FAISS, Streamlit, OpenAI API, Knowledge Graph (OWL/SHACL)
 - `Contents:` <br/>
-1. The goal is to predict dual defect types in data using only single defect data. <br/>
-1. Two models based on Vision Transformers and KNN algorithms were designed, using Euclidean and Gaussian distance calculation methods for comparative analysis. <br/>
-1. Prediction of dual defect types involving 'Edge_Loc' showed higher accuracy than previous studies using CNN, but overall performance was not 
-satisfactory.  <br/>
+1. Developed a Virtual Assistant that delivers answers based on the latest regulations and internal guidelines from Kyung Hee University's Regulation Management System. <br/>
+2. Implemented RAG (Retrieval-Augmented Generation) architecture using FAISS-based dense retriever with document embedding and reranking capabilities. <br/>
+3. Built Knowledge Graph-first architecture with OWL schema and SHACL shapes for structured regulation data management. <br/>
+4. Designed query routing and parsing system to efficiently handle diverse user questions about university regulations. <br/>
+5. Deployed the application on Streamlit Cloud with member ID verification for access control. <br/>
 
 <br/>
 
-🥇**Project 5.** [EG(Eco Gumi)-Service: 에너지 효율성 및 지속 가능한 에너지 사용을 위한 통합 플랫폼(Integrated Platform for Energy Efficiency and Sustainable Energy Use)](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon)
+**Project 5.** [Convex: 볼록 최적화 기반 서울시 공영주차장 배정 최적화 시스템](https://github.com/HyeonjongJang/Convex)
+- `Role:` Developer
+- `Period:` 2024
+- `Tech Stack:` Python, Flask, CVXPY, ECOS Solver, Leaflet.js, OpenAI GPT API
+- `Contents:` <br/>
+1. Developed a Convex Optimization-based parking lot assignment system for Seoul that simultaneously optimizes three objectives: efficiency, distance, and cost to alleviate traffic congestion. <br/>
+2. Implemented real-time optimization algorithm capable of assigning optimal parking lots to over 1,000 users simultaneously, achieving 6.4% reduction in congestion score and 2.2% reduction in average distance compared to Greedy algorithm. <br/>
+3. Designed multi-objective optimization with adjustable weights (α for parking efficiency, β for citizen convenience, γ for economic burden) using CVXPY and ECOS solver. <br/>
+4. Integrated OpenAI GPT API for AI-powered weight recommendation based on situational scenarios (e.g., weekend evening rush, weekday commute hours, rainy day conditions). <br/>
+5. Built real-time congestion visualization dashboard displaying 62 major Seoul locations with population estimates, road traffic status, weather conditions, and 1-hour congestion predictions using Leaflet.js. <br/>
+
+<br/>
+
+**Project 4.** [Google Image Scraping for Food Menu Dataset](https://github.com/HyeonjongJang/Crawling)
+- `Role:` Developer
+- `Period:` 2024
+- `Tech Stack:` Python, Selenium/BeautifulSoup (Web Scraping)
+- `Contents:` <br/>
+1. Developed an automated web scraping tool to collect food images from Google Images for machine learning dataset construction. <br/>
+2. Implemented batch processing to crawl approximately 200 images per food menu item from a predefined menu list. <br/>
+3. Designed utility functions for efficient image downloading and storage management. <br/>
+
+<br/>
+
+**Project 3.** [Fseg-app: Food Detection, Segmentation, and Nutrition Value Calculation Solution](https://github.com/Esupartners/Fseg-app)
 - `Role:` Team Member
-- `Period:` Service Sector conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
-- 🏆`Prize:` [Grand Prize](/images/구미산단_데이터톤.jpg), President from Korea Electric Power Corporation(KEPCO), <strong>KRW 4,000,000</strong>
+- `Period:` 2023 ~ 2024
+- `Tech Stack:` Python, YOLOv5, SAM (Segment Anything Model), FastAPI, Conda
 - `Contents:` <br/>
-1. Developed a service idea(EG-Service). <br/>
-1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on 
-the daily usage patterns of power consuming companies. <br/>
-1. Utilizing various algorithmic models such as Linear Regression, LSTM, and Ensemble Methods (Voting, Stacking, etc.) to derive R-squared and MAE. <br/>
-1. Proposing features for visualizing energy usage and policy notification services, and creating a Service Blueprint and user behavior simulation map to 
-refine the service ideas.
+1. Developed a comprehensive solution for automating food detection, segmentation, and classification within images, and subsequently calculating their nutrition values. <br/>
+2. Implemented food type detection and classification using YOLOv5 (You Only Look Once) algorithm for real-time object detection. <br/>
+3. Integrated Meta's SAM (Segment Anything) model for precise food area segmentation without manual annotations, enabling accurate separation of food items regardless of shape, size, or appearance variations. <br/>
+4. Extended functionality to detect and classify packaged food items near plates for comprehensive meal analysis. <br/>
+5. Calculated nutrition values by analyzing pixel counts of segmentation masks relative to plate dimensions, providing caloric, macronutrient, and micronutrient information through established nutritional databases. <br/>
 
 <br/>
 
-🥈**Project 4.** 대학 발전을 위한 정책 아이디어(A Policy Idea For University Development)
-- `Role:` Team Leader
-- `Period:` In-Campus Contest conducted in the Policy Idea Contest for University Development at Kumoh National Institute of Technology, 2023.09 ~ 2023.11
-- 🏆`Prize:` [Second Prize](/images/금오공대_정책_공모전_우수.jpg), University President's Award from Kumoh National Institute of Technology, <strong>KRW 500,000</strong>
-- `Contents:`  <br/>
-1. We will establish a “School of Liberal Studies” for undergraduate students to strengthen their convergence capabilities and expand opportunities for major exploration.  <br/>
-1. We will improve the course evaluation system to facilitate better communication between students and professors.  <br/>
-1. Through initiatives like the “Alumni School Visit Program” and a nationwide high school promotion tour, we will attract outstanding students from other regions.  <br/>
-1. Following the example of Duksung Women’s University, we aim to increase students' satisfaction with major selection by offering a major exploration period, while enhancing the university’s global and creative brand value.  <br/>
-1. Through these initiatives, we aim to achieve enhanced competitiveness, innovative education, and a stronger university brand for Kumoh National Institute of Technology.
-
-<br/>
-
-**Project 3.** [서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안(Proposed elder care centers in Seoul and identified optimal locations using AI)](https://github.com/jaejunchoe/2023-Seoul-Artificial-Intelligence-Idea-Challenge)
+**Project 2.** [VegeChecker: 바코드 기반 식품 성분 분석 애플리케이션](https://github.com/HyeonjongJang/vegechecker)
 - `Role:` Team Member
-- `Period:` Contest conducted in the 2023 Seoul Artificial Intelligence Idea Challenge, 2023.08 ~ 2023.10
+- `Period:` Dongseo University Sogaesil3 Project
+- `Tech Stack:` Java, Android SDK, Barcode Scanner API
 - `Contents:` <br/>
-1. Proposal for 'Elderly Care Centers' (ECC) and Selection of Optimal Locations Based on Data. <br/>
-1. By utilizing data on population and the number of welfare facilities in each region, we conducted clustering to select areas that need to be converted into 
-ECC based on the proportional and inversely proportional relationships of the compared data. <br/>
-1. Clustering was performed using DBSCAN, and the hyperparameters were derived through GridSearch. <br/>
-1. As a result, we identified Nowon-gu, Gangseo-gu, Yangcheon-gu, Songpa-gu, and Seongbuk-gu as areas urgently requiring conversion into ECCs.
+1. Developed an Android application that analyzes food ingredients through barcode recognition. <br/>
+2. Implemented barcode scanning functionality to retrieve product information automatically. <br/>
+3. Designed user-friendly interface for quick and convenient food ingredient checking. <br/>
 
 <br/>
 
-**Project 2.** [2024년 FA(자유계약선수) 자격을 갖춘 KBO 선수들의 연봉 예측(Salary prediction for KBO players eligible for FA (Free Agent) in 2024)](https://github.com/jaejunchoe/Prediction-of-2024-KBO-Players-Free-Agency-Salaries)
-- `Role:` Team Member & Presenter
-- `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
+**Project 1.** [SWATTER: Deep Learning-based Real-time UAV Detection using Smartphones as Edge Computing Devices](https://github.com/K-SW-SWATTER/KSW-Purdue)
+- `Role:` Team Member
+- `Period:` 2023 Winter (Purdue University, West Lafayette, Indiana, USA)
+- `Tech Stack:` Python, TensorFlow Lite, Android (Java/Kotlin), SVM, MFCC Feature Extraction, TCP Socket Server (C++)
 - `Contents:` <br/>
-1. Collected performance metrics for KBO players who signed FA contracts from 2019 to 2023. <br/>
-1. Analyzed the correlation between performance metrics and salaries for pitchers and batters. <br/>
-1. Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher. 
-
-<br/>
-
-📄**Project 1.** [쇼핑카트의 불편한 점을 해결하는 새로운 아이디어 발굴 및 디자인권 등록(Developing innovative ideas to address the inconveniences of shopping carts and registering design patent)](https://doi.org/10.8080/3020230035785.M001)
-- `Role:` Team Member & Presenter
-- `Period:` Term project conducted in the Product·System Design Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.04 ~ 2023.06
-- 📄`Patent:` A Design Right with the Korea Intellectual Property Rights Information Service (KIPRIS) under [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001)
-- `Contents:` <br/>
-1. It was designed so that the front panel can rotate open around a hinge axis while the cart is adjusted to match the height of the checkout counter. <br/>
-1. A holder for a mobile phone and beverage container was added to the handle, and the front panel can be opened and closed by rotating around the hinge axis for easy access to items. Additionally, a height-adjustment function was included by using a hydraulic lever to vary the distance between the wheels. <br/>
+1. Developed a novel solution for drone detection using machine learning-based smartphone application, addressing the increasing incidents of careless misuse and malicious drone activities. <br/>
+2. Implemented acoustic-based UAV detection by extracting MFCC (Mel-frequency cepstral coefficients) features from sound data using librosa and jlibrosa libraries. <br/>
+3. Trained SVM (Support Vector Machine) classification model and deployed it on Android devices using TensorFlow Lite Interpreter for real-time inference on edge devices. <br/>
+4. Designed TCP socket server for comparing inference time between edge computing (smartphone) and server-side processing. <br/>
+5. Achieved practical drone detection capability that enables users to check for nearby drones using only their smartphones, eliminating the need for specialized equipment like radar or microphones. <br/>
 
 <br/>
 <br/>
