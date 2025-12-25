@@ -12,7 +12,81 @@ redirect_from:
 **Career Historys**
 ----
 
-**Career History 1.** [이수파트너스 AI 개발자 및 PM (Esu Partners - AI Developer & Project Manager)](https://esupartners.com/)
+**Career History 1.** 주식회사 이도 - 경희대학교 국제캠퍼스 제2기숙사 조교 (IDO Co., Ltd. - Dormitory Assistant at KHU Global Campus)
+- `Address:` Kyung Hee University Global Campus, 2nd Dormitory, Yongin, Gyeonggi-do
+- `Period:` 2025.02 ~ Present
+- `Role:` Dormitory Management Assistant (Administrative & Technical Operations)
+
+<details>
+<summary><strong>🤖 Task A. Dormitory Customized Chatbot Development</strong></summary>
+<div markdown="1">
+
+- `Role:` Developer
+- `Tech Stack:` Python, LLM, RAG, Streamlit
+- `Contents:` <br/>
+1. Developed a dormitory-specific chatbot to enhance work efficiency for staff, new assistants, and mentors. <br/>
+2. Implemented RAG-based Q&A system for instant access to dormitory regulations and guidelines. <br/>
+3. Reduced repetitive inquiries and improved onboarding experience for new team members. <br/>
+
+</div>
+</details>
+
+<details>
+<summary><strong>📊 Task B. Excel-based Workflow Automation</strong></summary>
+<div markdown="1">
+
+- `Role:` Process Optimizer
+- `Tech Stack:` Microsoft Excel, VBA, Advanced Formulas
+- `Contents:` <br/>
+1. Streamlined work schedule creation through automated Excel formula systems. <br/>
+2. Optimized resident management and check-in/check-out administration processes. <br/>
+3. Significantly reduced manual data entry time and minimized human errors in administrative tasks. <br/>
+
+</div>
+</details>
+
+<details>
+<summary><strong>🔒 Task C. Security & Monitoring (Life Guidance & Safety Management)</strong></summary>
+<div markdown="1">
+
+- `Role:` Safety Monitor
+- `Contents:` <br/>
+1. Real-time monitoring to maintain system Normal State and detect Anomalies. <br/>
+2. Immediate response protocols for safety incidents and emergency situations. <br/>
+3. Regular patrol and surveillance operations to ensure resident safety and facility security. <br/>
+
+</div>
+</details>
+
+<details>
+<summary><strong>🗄️ Task D. Data & Resource Management (Check-in/out & Facility Administration)</strong></summary>
+<div markdown="1">
+
+- `Role:` Data & Infrastructure Manager
+- `Contents:` <br/>
+1. Large-scale user data refinement including room assignments and equipment distribution. <br/>
+2. Hardware (facility) infrastructure optimization and maintenance management. <br/>
+3. Systematic resource allocation and inventory tracking for dormitory operations. <br/>
+
+</div>
+</details>
+
+<details>
+<summary><strong>⚠️ Task E. Exception Handling (Complaint Resolution & Conflict Mediation)</strong></summary>
+<div markdown="1">
+
+- `Role:` Problem Solver & Mediator
+- `Contents:` <br/>
+1. Resolution of unpredictable Edge Cases that cannot be addressed by standard procedures. <br/>
+2. Mediation of interpersonal conflicts and coordination between residents and administration. <br/>
+3. Creative problem-solving for exceptional situations requiring case-by-case judgment. <br/>
+
+</div>
+</details>
+
+<br/>
+
+**Career History 2.** [이수파트너스 AI 개발자 및 PM (Esu Partners - AI Developer & Project Manager)](https://esupartners.com/)
 - `Address:` 6th floor, 47 Gwangjang-ro 2beon-gil, Sasang-gu, Busan
 - `Period:` 2023.07 ~ 2024.06 (1 Year)
 - `Role:` Lead AI Developer & Project Manager (Healthcare/Platform)
