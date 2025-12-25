@@ -35,5 +35,12 @@ Experiences
 <br/>
 <br/>
 
+Previous Portfolio Page
+======
+-----
+- [2019-2024 Portfolio Page](https://hyeonjongjang.github.io/portfolio2/)
+<br/>
+<br/>
+
 
 
