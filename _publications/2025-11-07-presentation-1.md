@@ -1,10 +1,10 @@
 ---
-title: "Development of an Intelligent Organizational Knowledge Management System using Hybrid Search and Agent Workflows"
+title: "[PT] Development of an Intelligent Organizational Knowledge Management System using Hybrid Search and Agent Workflows"
 collection: publications
 category: conferences
-permalink: /publication/2025-11-01-paper-5
+permalink: /publication/2025-11-07-paper-5
 excerpt: '`Keywords: RAG, Knowledge Management, Hybrid Search, Agent Workflows, LLM, FAISS, University Regulations, NLP`'
-date: 2025-11-01
+date: 2025-11-07
 venue: '2025년 대한산업공학회 추계학술대회'
 paperurl: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12484420'
 citation: '<strong>Jang, H.</strong>, & Kim, Y*. (2025). &quot;Development of an Intelligent Organizational Knowledge Management System using Hybrid Search and Agent Workflows.&quot; <i>2025년 대한산업공학회 추계학술대회</i>, 3015-3025.'
