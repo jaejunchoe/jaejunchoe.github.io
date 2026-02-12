@@ -34,13 +34,18 @@ redirect_from:
 - `Role:` Team Member
 - `Period:` 2025 AI-Powered Vulnerability Discovery System Competition, 2025.09 ~ 2025.10
 - 🏆`Prize:` [Excellence Prize](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
-- `Contents:` <br/>
+<details>
+<summary><strong> - `Contents:` <br/> </strong></summary>
+<div markdown="1">
+
 1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning. <br/>
 1. We proposed EMA-Based Adaptive Mutation, a lightweight and real-time operator scheduling mechanism that learns mutations capable of discovering new paths. <br/>
 1. We implemented Plateau Detection to automatically identify coverage stagnation and integrated optional LLM support to generate diverse initial seeds. <br/>
 1. By presenting a novel approach for structured input fuzzing via Parse-Rate Driven Curriculum Learning, Lightweight EMA-Based Scheduling, and an Automatic Phase Transition Mechanism, we demonstrated suitability for real-time high-throughput fuzzing and achieved synergy between parse-rate phases and coverage monitoring. <br/>
 1. Through this approach, we demonstrated superior performance in both code coverage (+4.03%) and execution speed (+6.50%) compared to standard AFL++, significantly enhancing the efficiency of vulnerability analysis for software with complex structures. <br/>
 
+</div>
+</details>
 
 <br/>
 
