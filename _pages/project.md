@@ -35,7 +35,7 @@ redirect_from:
 - `Period:` 2025 AI-Powered Vulnerability Discovery System Competition, 2025.09 ~ 2025.10
 - 🏆`Prize:` [Excellence Prize](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
 - <details><summary><code>Contents:</code> (Click to expand)</summary>
-<div markdown="1">
+  <div markdown="1">
 
   1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning. 
   1. We proposed EMA-Based Adaptive Mutation, a lightweight and real-time operator scheduling mechanism that learns mutations capable of discovering new paths.
