@@ -37,11 +37,11 @@ redirect_from:
 - <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
 
-  1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning. 
+  1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning.
   1. We proposed EMA-Based Adaptive Mutation, a lightweight and real-time operator scheduling mechanism that learns mutations capable of discovering new paths.
-  1. We implemented Plateau Detection to automatically identify coverage stagnation and integrated optional LLM support to generate diverse initial seeds. 
-  1. By presenting a novel approach for structured input fuzzing via Parse-Rate Driven Curriculum Learning, Lightweight EMA-Based Scheduling, and an Automatic Phase Transition Mechanism, we demonstrated suitability for real-time high-throughput fuzzing and achieved synergy between parse-rate phases and coverage monitoring. 
-  1. Through this approach, we demonstrated superior performance in both code coverage (+4.03%) and execution speed (+6.50%) compared to standard AFL++, significantly enhancing the efficiency of vulnerability analysis for software with complex structures. 
+  1. We implemented Plateau Detection to automatically identify coverage stagnation and integrated optional LLM support to generate diverse initial seeds.
+  1. By presenting a novel approach for structured input fuzzing via Parse-Rate Driven Curriculum Learning, Lightweight EMA-Based Scheduling, and an Automatic Phase Transition Mechanism, we demonstrated suitability for real-time high-throughput fuzzing and achieved synergy between parse-rate phases and coverage monitoring.
+  1. Through this approach, we demonstrated superior performance in both code coverage (+4.03%) and execution speed (+6.50%) compared to standard AFL++, significantly enhancing the efficiency of vulnerability analysis for software with complex structures.
 
   </div>
   </details>
