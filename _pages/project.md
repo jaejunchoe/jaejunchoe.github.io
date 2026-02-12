@@ -30,11 +30,11 @@ redirect_from:
 
 **Side Projects**
 ----
-🥉**Side Project 8.**  [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/HyeonjongJang/CGAFuzz)
+🥉**Side Project 8.** [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/HyeonjongJang/CGAFuzz)
 - `Role:` Team Member
 - `Period:` 2025 AI-Powered Vulnerability Discovery System Competition, 2025.09 ~ 2025.10
 - 🏆`Prize:` [Excellence Prize](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), Chairperson of the IT Platform Safety Research Group, <strong>KRW 2,000,000</strong>
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
 
   1. We designed a three-phase progression strategy based on JSON validation success rates using Parse-Rate Driven Curriculum Learning.
@@ -52,8 +52,9 @@ redirect_from:
 - `Role:` Team Member
 - `Period:` Data Analysis Sector conducted in 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition, 2025.06 ~ 2025.07
 - 🏆`Prize:` [Top Excellence Prize](/images/한국식품연구원_상장1.jpg), President from President of Korea Food Research Institute (KFRI), <strong>KRW 500,000</strong>
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. As the volume of academic data in science and technology rapidly increases, researchers are facing difficulties in searching for prior studies and classifying content due to the limitations of existing keyword-based search systems.
   1. To address this problem, we propose and implement RAG-FSR (Retrieval-Augmented Generation for Food Science Research), a language model specialized for the food research domain that utilizes Retrieval-Augmented Generation (RAG) technology.
   1. The results showed that RAG-FSR achieved an accuracy of 0.960, particularly in the multi-keyword classification task. Furthermore, on the exact-match accuracy metric for abstract generation, our model performed approximately 4-9 times better than the baseline models.
@@ -67,11 +68,12 @@ redirect_from:
 **Side Project 6.** [Vision Transformer와 유사도 기반 반도체 혼합 결합 유형 예측(Prediction of Mixed Defect Types in Semiconductors Using Vision Transformer and Similarity-Based Methods)](https://github.com/jaejunchoe/2024-1_Capstone-Design)
 - `Role:` Individual
 - `Period:` Individual Project conducted in a Capstone Design Lecture under the supervision of Prof. Young-Sil Lee at Kumoh National Institute of Technology, 1st Semester 2024 , 2024.03 ~ 2024.05
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. The goal is to predict dual defect types in data using only single defect data.
   1. Two models based on Vision Transformers and KNN algorithms were designed, using Euclidean and Gaussian distance calculation methods for comparative analysis.
-  1. Prediction of dual defect types involving 'Edge_Loc' showed higher accuracy than previous studies using CNN, but overall performance was not satisfactory. 
+  1. Prediction of dual defect types involving 'Edge_Loc' showed higher accuracy than previous studies using CNN, but overall performance was not satisfactory.
 
   </div>
   </details>
@@ -83,8 +85,9 @@ redirect_from:
 - `Role:` Team Member
 - `Period:` Service Sector conducted in 2023 Gumi Industrial Complex Energy Self-Sufficiency Datathon, 2023.09 ~ 2023.12
 - 🏆`Prize:` [Grand Prize](/images/구미산단_데이터톤.jpg), President from Korea Electric Power Corporation(KEPCO), <strong>KRW 4,000,000</strong>
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. Developed a service idea(EG-Service). <br/>
   1. Analyzing the correlations in hourly usage data to identify past times with high correlation to past power usage and conducting time series clustering on the daily usage patterns of power consuming companies. <br/>
   1. Utilizing various algorithmic models such as Linear Regression, LSTM, and Ensemble Methods (Voting, Stacking, etc.) to derive R-squared and MAE. <br/>
@@ -99,8 +102,9 @@ redirect_from:
 - `Role:` Team Leader
 - `Period:` In-Campus Contest conducted in the Policy Idea Contest for University Development at Kumoh National Institute of Technology, 2023.09 ~ 2023.11
 - 🏆`Prize:` [Second Prize](/images/금오공대_정책_공모전_우수.jpg), University President's Award from Kumoh National Institute of Technology, <strong>KRW 500,000</strong>
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. We will establish a “School of Liberal Studies” for undergraduate students to strengthen their convergence capabilities and expand opportunities for major exploration.
   1. We will improve the course evaluation system to facilitate better communication between students and professors.
   1. Through initiatives like the “Alumni School Visit Program” and a nationwide high school promotion tour, we will attract outstanding students from other regions.
@@ -115,8 +119,9 @@ redirect_from:
 **Side Project 3.** [서울시의 노인 돌봄 센터 제안과 AI를 활용한 최적의 위치 선정 및 제안(Proposed elder care centers in Seoul and identified optimal locations using AI)](https://github.com/jaejunchoe/2023-Seoul-Artificial-Intelligence-Idea-Challenge)
 - `Role:` Team Member
 - `Period:` Contest conducted in the 2023 Seoul Artificial Intelligence Idea Challenge, 2023.08 ~ 2023.10
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. Proposal for 'Elderly Care Centers' (ECC) and Selection of Optimal Locations Based on Data.
   1. By utilizing data on population and the number of welfare facilities in each region, we conducted clustering to select areas that need to be converted into ECC based on the proportional and inversely proportional relationships of the compared data.
   1. Clustering was performed using DBSCAN, and the hyperparameters were derived through GridSearch.
@@ -130,11 +135,12 @@ redirect_from:
 **Side Project 2.** [2024년 FA(자유계약선수) 자격을 갖춘 KBO 선수들의 연봉 예측(Salary prediction for KBO players eligible for FA (Free Agent) in 2024)](https://github.com/jaejunchoe/Prediction-of-2024-KBO-Players-Free-Agency-Salaries)
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Machine Learning Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.05 ~ 2023.06
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. Collected performance metrics for KBO players who signed FA contracts from 2019 to 2023.
   1. Analyzed the correlation between performance metrics and salaries for pitchers and batters.
-  1. Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher. 
+  1. Created a model using RandomForestRegressor with performance metrics that had a correlation of 0.5 or higher.
 
   </div>
   </details>
@@ -145,8 +151,9 @@ redirect_from:
 - `Role:` Team Member & Presenter
 - `Period:` Term project conducted in the Product·System Design Lecture at Kumoh National Institute of Technology, 1st Semester 2023, 2023.04 ~ 2023.06
 - 📄`Patent:` A Design Right with the Korea Intellectual Property Rights Information Service (KIPRIS) under [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001)
-- <details><summary><strong>Contents:</strong> (Click to expand)</summary>
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
+
   1. It was designed so that the front panel can rotate open around a hinge axis while the cart is adjusted to match the height of the checkout counter.
   1. A holder for a mobile phone and beverage container was added to the handle, and the front panel can be opened and closed by rotating around the hinge axis for easy access to items. Additionally, a height-adjustment function was included by using a hydraulic lever to vary the distance between the wheels.
 
