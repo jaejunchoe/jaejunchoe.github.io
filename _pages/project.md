@@ -30,6 +30,22 @@ redirect_from:
 
 **Side Projects**
 ----
+**Side Project 9.** [Convex Optimization-Based Municipal Parking Lot Recommendation System in Seoul](https://github.com/jaejunchoe/convex_25_kyunghee)
+- `Role:` Team Member
+- `Period:` Term project conducted in the Convex Optimization Lecture at KyungHee University, 2st Semester 2025, 2025.09 ~ 2023.12
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
+  <div markdown="1">
+
+  1. To resolve the issues of unbalanced utilization rates and parking shortages in Seoul's municipal parking lots, we designed a convex optimization-based dynamic parking recommendation AI agent that allocates the optimal parking lot by reflecting real-time urban data.
+  1. We proposed an objective function that simultaneously minimizes parking lot congestion, user travel distance, and parking fees. Additionally, we prevented demand concentration at specific parking lots by applying capacity overflow prevention and an upper bound constraint on congestion ($\rho_{max}$).
+  1. We implemented a framework that assigns the optimal parking lot utilizing the CVXPY solver, and integrated a feature where an LLM dynamically recommends hyperparameter weights ($\alpha, \beta, \gamma$) based on real-time situational prompts, such as city festivals or events.
+  1. Through this approach, we achieved superior performance across all metrics compared to the conventional Greedy algorithm—including improvements in congestion (+8.2%, +7.5%), parking costs (+4%, +5.8%), and travel distance (+0.2%, +0.8%) for weekdays and weekends, respectively. Furthermore, we demonstrated that this system can effectively alleviate users' parking search time and stress while guaranteeing a global optimal solution.
+
+  </div>
+  </details>
+
+<br/>
+
 🥉**Side Project 8.** [CGAFuzz: Curriculum-Guided Adaptive Fuzzing Framework (Combining AFL++ with curriculum learning, EMA-based adaptive mutation, and optional LLM-powered seed generation)](https://github.com/HyeonjongJang/CGAFuzz)
 - `Role:` Team Member
 - `Period:` 2025 AI-Powered Vulnerability Discovery System Competition, 2025.09 ~ 2025.10
