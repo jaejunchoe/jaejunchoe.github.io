@@ -30,9 +30,26 @@ redirect_from:
 
 **Side Projects**
 ----
+**Side Project 10.** [CRM Message Generation System](https://github.com/jaejunchoe/2026-Amore-Pacific-AI-Innovation-Challenge)
+- `Role:` Team Member
+- `Period:` 2026-Amore-Pacific-AI-Innovation-Challenge, 2025.12 ~ 2026.01
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
+  <div markdown="1">
+
+  1. We designed a Multi-Agent CRM message generation system utilizing LangGraph to automate the entire process from persona understanding to message creation, addressing the current "content bottleneck" where manual message creation fails to keep pace with rapid targeting capabilities.
+  1. We proposed a Persona Analyzer that conducts in-depth analysis of psychological purchase motivations based on 8 core beauty segments, moving beyond simple demographic analysis to understand the customer's context.
+  1. We implemented a Product Matcher using a ChromaDB-based RAG pipeline, converting 2,753 original Amorepacific product data points into 516 core product categories to perform semantic matching aligned with the persona's skin concerns and brand information.
+  1. By integrating a Message Generator that applies brand-specific tone and manner, and a Quality Checker that validates character limits and predicts CTR, we ensured the generation of high-quality, optimal CRM messages with a robust retry and fallback mechanism.
+  1. Through this approach, we expect to significantly improve email open rates (+150~194%) and CTR (+150~192%) while reducing message generation time by over 95%, ultimately maximizing CRM operational efficiency and transforming marketers into strategic designers.
+
+  </div>
+  </details>
+
+<br/>
+
 **Side Project 9.** [Convex Optimization-Based Municipal Parking Lot Recommendation System in Seoul](https://github.com/jaejunchoe/convex_25_kyunghee)
 - `Role:` Team Member
-- `Period:` Term project conducted in the Convex Optimization Lecture at KyungHee University, 2st Semester 2025, 2025.09 ~ 2023.12
+- `Period:` Term project conducted in the Convex Optimization Lecture at KyungHee University, 2st Semester 2025, 2025.09 ~ 2025.12
 - <details><summary><code>Contents:</code> (Click to expand)</summary>
   <div markdown="1">
 
