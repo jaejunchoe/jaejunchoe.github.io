@@ -13,11 +13,8 @@ redirect_from:
 <!-- [CV Download](/files/최종_CV_ver13.pdf) -->
 
 ‡=Contributed Equally to This Work 
-
 *=Corresponding Author 
-
-[P]=Poster
-
+[P]=Poste
 [PT]=Presentation
 
 
