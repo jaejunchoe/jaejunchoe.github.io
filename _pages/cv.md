@@ -12,11 +12,14 @@ redirect_from:
 <!-- <iframe src="/files/최종_CV_ver13.pdf#toolbar=0&navpanes=0&scrollbar=0" width="800" height="800" style="display: block; margin: auto; border: none;"></iframe> -->
 <!-- [CV Download](/files/최종_CV_ver13.pdf) -->
 
- ‡=Contributed Equally to This Work 
- *=Corresponding Author 
- [P]=Poster 
- [PT]=Presentation
-======
+‡=Contributed Equally to This Work 
+
+*=Corresponding Author 
+
+[P]=Poster
+
+[PT]=Presentation
+
 
 Education
 ======
