@@ -68,6 +68,13 @@ Awards & Honors
 
 <br/>
 
+Teaching Assistant
+======
+* Machine Learning (2026-1 IE)
+* Quality Engineering (2026-1 IE)
+
+<br/>
+
 Design Patent
 ======
 * Cho, S., CHUNG, M., JEON, M., <strong>CHOE, J.</strong> , JEONG, Y., CHOI, J., "쇼핑카트", Korean Intellectual Property Office, [KR-Registration No. 3012568290000](https://doi.org/10.8080/3020230035785.M001), April, 2024 
